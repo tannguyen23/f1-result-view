@@ -1,0 +1,4797 @@
+[
+	{
+		"id": "5c34f72b-b6ad-46a9-9ca2-5bc782d6bc04",
+		"position": 1,
+		"name": "Vanwall",
+		"point": 48,
+		"year": 1958
+	},
+	{
+		"id": "24ddafd8-27c9-4f56-8f1a-e4b12cc45c4f",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 40,
+		"year": 1958
+	},
+	{
+		"id": "ad284def-3711-4508-a963-7516d789e5d3",
+		"position": 3,
+		"name": "Cooper Climax",
+		"point": 31,
+		"year": 1958
+	},
+	{
+		"id": "331b2210-755e-44d4-b12e-e6b4a2b036af",
+		"position": 4,
+		"name": "BRM",
+		"point": 18,
+		"year": 1958
+	},
+	{
+		"id": "777108dd-9cbd-492e-aae7-2e20845a140a",
+		"position": 5,
+		"name": "Maserati",
+		"point": 6,
+		"year": 1958
+	},
+	{
+		"id": "41c0709e-8883-471c-a891-c426f8d9cd9d",
+		"position": 6,
+		"name": "Lotus Climax",
+		"point": 3,
+		"year": 1958
+	},
+	{
+		"id": "8a995f4d-63a0-40ab-9940-8a6e72e5b506",
+		"position": 1,
+		"name": "Cooper Climax",
+		"point": 40,
+		"year": 1959
+	},
+	{
+		"id": "6f94e0fc-0a87-4178-863e-8d3ab80a4bb4",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 32,
+		"year": 1959
+	},
+	{
+		"id": "fe39cef7-b70e-4a0e-a723-8a923b5ef35b",
+		"position": 3,
+		"name": "BRM",
+		"point": 18,
+		"year": 1959
+	},
+	{
+		"id": "84c58564-3495-4d7c-9514-4f4ad358b57c",
+		"position": 4,
+		"name": "Lotus Climax",
+		"point": 5,
+		"year": 1959
+	},
+	{
+		"id": "6012af7d-196f-4910-ab1f-a888e3b65bbc",
+		"position": 1,
+		"name": "Cooper Climax",
+		"point": 48,
+		"year": 1960
+	},
+	{
+		"id": "ff3aa7ca-f15d-4e21-912c-1015a2037046",
+		"position": 2,
+		"name": "Lotus Climax",
+		"point": 34,
+		"year": 1960
+	},
+	{
+		"id": "124ef8bb-3770-4c5f-9c9f-d83e1aee654f",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 26,
+		"year": 1960
+	},
+	{
+		"id": "f1272d3e-4ae5-4043-9903-54ec18f83955",
+		"position": 4,
+		"name": "BRM",
+		"point": 8,
+		"year": 1960
+	},
+	{
+		"id": "b3e5aa8b-4cc1-46cb-b9f1-5ca2ecf08e2c",
+		"position": 5,
+		"name": "Cooper Maserati",
+		"point": 3,
+		"year": 1960
+	},
+	{
+		"id": "17cd6102-87e5-4633-94ad-7d86d1d9185f",
+		"position": 6,
+		"name": "Cooper Castellotti",
+		"point": 3,
+		"year": 1960
+	},
+	{
+		"id": "c1fe1ce2-8bc2-498d-8922-b58f8544658f",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 40,
+		"year": 1961
+	},
+	{
+		"id": "119dfa83-cf39-4b53-8a92-61ec341c8d0f",
+		"position": 2,
+		"name": "Lotus Climax",
+		"point": 32,
+		"year": 1961
+	},
+	{
+		"id": "a8b9ac90-1a0f-4354-895c-0e3a2c2e9713",
+		"position": 3,
+		"name": "Porsche",
+		"point": 22,
+		"year": 1961
+	},
+	{
+		"id": "decc8dfc-c48d-4a72-b8b2-9a450d04de21",
+		"position": 4,
+		"name": "Cooper Climax",
+		"point": 14,
+		"year": 1961
+	},
+	{
+		"id": "15560d5a-8ea2-4185-a2b9-8d5b48251614",
+		"position": 5,
+		"name": "BRM Climax",
+		"point": 7,
+		"year": 1961
+	},
+	{
+		"id": "813415e2-6176-4691-9cc6-6b4d472997e4",
+		"position": 1,
+		"name": "BRM",
+		"point": 42,
+		"year": 1962
+	},
+	{
+		"id": "8798bf4d-79d4-4774-96a4-4673731daf58",
+		"position": 2,
+		"name": "Lotus Climax",
+		"point": 36,
+		"year": 1962
+	},
+	{
+		"id": "72912a26-d69b-4322-9751-db838f7a7831",
+		"position": 3,
+		"name": "Cooper Climax",
+		"point": 29,
+		"year": 1962
+	},
+	{
+		"id": "d96578e5-ba4c-4e36-84b6-01fc20320bcf",
+		"position": 4,
+		"name": "Lola Climax",
+		"point": 19,
+		"year": 1962
+	},
+	{
+		"id": "60da7184-6c9e-4d2f-aeb9-612245926546",
+		"position": 5,
+		"name": "Porsche",
+		"point": 18,
+		"year": 1962
+	},
+	{
+		"id": "c1241a63-226b-4f35-8f55-685a2a85b648",
+		"position": 6,
+		"name": "Ferrari",
+		"point": 18,
+		"year": 1962
+	},
+	{
+		"id": "d1cb6648-896a-44bb-89e9-7724b5e14e43",
+		"position": 7,
+		"name": "Brabham Climax",
+		"point": 6,
+		"year": 1962
+	},
+	{
+		"id": "e8cd6864-86d1-4e58-8f95-e6aae513ae2a",
+		"position": 8,
+		"name": "Lotus BRM",
+		"point": 1,
+		"year": 1962
+	},
+	{
+		"id": "dcea6a2d-fcef-4b3a-8df1-5a2f892968a8",
+		"position": 1,
+		"name": "Lotus Climax",
+		"point": 54,
+		"year": 1963
+	},
+	{
+		"id": "75303ce8-ebc5-460a-a205-baf02cf881c9",
+		"position": 2,
+		"name": "BRM",
+		"point": 36,
+		"year": 1963
+	},
+	{
+		"id": "bb57b727-8e49-422e-b0c6-a7ed3edc0223",
+		"position": 3,
+		"name": "Brabham Climax",
+		"point": 28,
+		"year": 1963
+	},
+	{
+		"id": "6968f20b-e4e6-4b1c-8bda-2ca87d58cd76",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 26,
+		"year": 1963
+	},
+	{
+		"id": "1a373327-67f0-497e-bc4e-b315f60ea3c3",
+		"position": 5,
+		"name": "Cooper Climax",
+		"point": 25,
+		"year": 1963
+	},
+	{
+		"id": "1626f794-fd34-4df8-83ee-d163d53c6b9e",
+		"position": 6,
+		"name": "BRP BRM",
+		"point": 6,
+		"year": 1963
+	},
+	{
+		"id": "2f5d9c35-fb97-4c0c-939f-3df108fb3a91",
+		"position": 7,
+		"name": "Porsche",
+		"point": 5,
+		"year": 1963
+	},
+	{
+		"id": "09276ba6-f8c2-45a7-96b2-646d740826f2",
+		"position": 8,
+		"name": "Lotus BRM",
+		"point": 4,
+		"year": 1963
+	},
+	{
+		"id": "d26fc015-c40d-4383-b408-f3a1064f6b53",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 45,
+		"year": 1964
+	},
+	{
+		"id": "f0ab38c1-7349-4bd7-a810-583496815fc8",
+		"position": 2,
+		"name": "BRM",
+		"point": 42,
+		"year": 1964
+	},
+	{
+		"id": "30c2448b-9fc8-4c20-b0c5-9a49cd435b25",
+		"position": 3,
+		"name": "Lotus Climax",
+		"point": 37,
+		"year": 1964
+	},
+	{
+		"id": "a571bc9c-31c7-40af-9199-9437afd30c5c",
+		"position": 4,
+		"name": "Brabham Climax",
+		"point": 30,
+		"year": 1964
+	},
+	{
+		"id": "d79917c2-3650-4edf-a6b3-c4808fc33c95",
+		"position": 5,
+		"name": "Cooper Climax",
+		"point": 16,
+		"year": 1964
+	},
+	{
+		"id": "c4c0764e-f2bb-4242-ae9a-eec405c1736c",
+		"position": 6,
+		"name": "Brabham BRM",
+		"point": 7,
+		"year": 1964
+	},
+	{
+		"id": "99443235-3bed-43ed-bbe0-a94438608aa0",
+		"position": 7,
+		"name": "BRP BRM",
+		"point": 5,
+		"year": 1964
+	},
+	{
+		"id": "5b963a50-82df-4bc9-a66a-f674767c69c7",
+		"position": 8,
+		"name": "Lotus BRM",
+		"point": 3,
+		"year": 1964
+	},
+	{
+		"id": "acff1086-0015-4b11-a50d-0f0b543f7f28",
+		"position": 1,
+		"name": "Lotus Climax",
+		"point": 54,
+		"year": 1965
+	},
+	{
+		"id": "eda87dc3-bdb1-4456-80d7-f58f3b3f59e1",
+		"position": 2,
+		"name": "BRM",
+		"point": 45,
+		"year": 1965
+	},
+	{
+		"id": "6091add9-b589-4a36-96b2-2924c709eb24",
+		"position": 3,
+		"name": "Brabham Climax",
+		"point": 27,
+		"year": 1965
+	},
+	{
+		"id": "8affa7eb-8226-4710-a746-fc78e059ba8a",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 26,
+		"year": 1965
+	},
+	{
+		"id": "6014ea8f-5973-430d-ba2a-3afce7cca6df",
+		"position": 5,
+		"name": "Cooper Climax",
+		"point": 14,
+		"year": 1965
+	},
+	{
+		"id": "c83d1cfc-881e-48a8-84da-7cbb753328aa",
+		"position": 6,
+		"name": "Honda",
+		"point": 11,
+		"year": 1965
+	},
+	{
+		"id": "00a93c40-ad15-4b2d-8943-f883a71f5d45",
+		"position": 7,
+		"name": "Brabham BRM",
+		"point": 5,
+		"year": 1965
+	},
+	{
+		"id": "bf7c9cf9-3803-42a6-9cbc-fb9d41ce0561",
+		"position": 8,
+		"name": "Lotus BRM",
+		"point": 2,
+		"year": 1965
+	},
+	{
+		"id": "36a561eb-b6ce-4345-af53-af4c6e680e2a",
+		"position": 1,
+		"name": "Brabham Repco",
+		"point": 42,
+		"year": 1966
+	},
+	{
+		"id": "5e5be52c-186a-41e7-93ca-bb89698e42ec",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 31,
+		"year": 1966
+	},
+	{
+		"id": "1bbbb310-f81e-4385-968e-cbed0d56dd78",
+		"position": 3,
+		"name": "Cooper Maserati",
+		"point": 30,
+		"year": 1966
+	},
+	{
+		"id": "77b0dc20-72e8-43d0-91a6-1f61b3162def",
+		"position": 4,
+		"name": "BRM",
+		"point": 22,
+		"year": 1966
+	},
+	{
+		"id": "bb083677-de13-4f8a-85d6-d80d87438fde",
+		"position": 5,
+		"name": "Lotus BRM",
+		"point": 13,
+		"year": 1966
+	},
+	{
+		"id": "9b4673b6-327c-40c5-9872-b07b891709bf",
+		"position": 6,
+		"name": "Lotus Climax",
+		"point": 8,
+		"year": 1966
+	},
+	{
+		"id": "a3d202d5-8fd5-4a46-be45-c04498f025f7",
+		"position": 7,
+		"name": "Eagle Climax",
+		"point": 4,
+		"year": 1966
+	},
+	{
+		"id": "ffa3f2a2-57a9-46fe-b98d-6f46280e2606",
+		"position": 8,
+		"name": "Honda",
+		"point": 3,
+		"year": 1966
+	},
+	{
+		"id": "a4c2f380-0c25-4777-8f57-abefbcddd8c2",
+		"position": 9,
+		"name": "McLaren Ford",
+		"point": 2,
+		"year": 1966
+	},
+	{
+		"id": "932eeb04-dae4-4727-bbed-13c9e0cdcc87",
+		"position": 10,
+		"name": "Brabham BRM",
+		"point": 1,
+		"year": 1966
+	},
+	{
+		"id": "af0720f4-83e0-4051-8949-58bfc7898e2f",
+		"position": 11,
+		"name": "McLaren Serenissima",
+		"point": 1,
+		"year": 1966
+	},
+	{
+		"id": "3a8eeb98-b226-4720-850a-1dd931193543",
+		"position": 12,
+		"name": "Brabham Climax",
+		"point": 1,
+		"year": 1966
+	},
+	{
+		"id": "7ebd4878-a54f-407b-b0da-03e0e50e2fec",
+		"position": 1,
+		"name": "Brabham Repco",
+		"point": 63,
+		"year": 1967
+	},
+	{
+		"id": "e7b52e7a-e5e7-43d5-838b-2d4bc34f25bd",
+		"position": 2,
+		"name": "Lotus Ford",
+		"point": 44,
+		"year": 1967
+	},
+	{
+		"id": "3da12fbe-3f28-4110-80af-cdd5752ba8e8",
+		"position": 3,
+		"name": "Cooper Maserati",
+		"point": 28,
+		"year": 1967
+	},
+	{
+		"id": "c9e77998-b48e-4ce8-abd2-d8e445269420",
+		"position": 4,
+		"name": "Honda",
+		"point": 20,
+		"year": 1967
+	},
+	{
+		"id": "e9d7c9fa-fbd3-4533-ac09-19551df5e7c3",
+		"position": 5,
+		"name": "Ferrari",
+		"point": 20,
+		"year": 1967
+	},
+	{
+		"id": "f9519c32-5867-43fe-aaf5-7786ef9b417a",
+		"position": 6,
+		"name": "BRM",
+		"point": 17,
+		"year": 1967
+	},
+	{
+		"id": "d38c0dc0-98df-41f7-9fbf-d8c548ce2073",
+		"position": 7,
+		"name": "Eagle Weslake",
+		"point": 13,
+		"year": 1967
+	},
+	{
+		"id": "99fc6a2c-e18e-4da2-868a-bb964bb4e8a0",
+		"position": 8,
+		"name": "Cooper Climax",
+		"point": 6,
+		"year": 1967
+	},
+	{
+		"id": "11002669-606c-41f8-adfe-211aefa38c2a",
+		"position": 9,
+		"name": "Lotus BRM",
+		"point": 6,
+		"year": 1967
+	},
+	{
+		"id": "6c35d0c8-4d75-4fe6-b60f-f6a548bb667a",
+		"position": 10,
+		"name": "McLaren BRM",
+		"point": 3,
+		"year": 1967
+	},
+	{
+		"id": "0b4fdadc-08f7-4762-bf61-cf5fee0fc41e",
+		"position": 11,
+		"name": "Brabham Climax",
+		"point": 2,
+		"year": 1967
+	},
+	{
+		"id": "2e099687-4f32-4463-addc-b694ca6cb49e",
+		"position": 1,
+		"name": "Lotus Ford",
+		"point": 62,
+		"year": 1968
+	},
+	{
+		"id": "bd3ef029-669f-409b-8324-1d6ae921c2c1",
+		"position": 2,
+		"name": "McLaren Ford",
+		"point": 49,
+		"year": 1968
+	},
+	{
+		"id": "fa071c46-1a06-4d2a-a8df-a9502c293925",
+		"position": 3,
+		"name": "Matra Ford",
+		"point": 45,
+		"year": 1968
+	},
+	{
+		"id": "4efb12ef-e05d-4304-933b-88fa4d20ce9c",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 32,
+		"year": 1968
+	},
+	{
+		"id": "34392b8e-64b5-4998-be09-463a27728aed",
+		"position": 5,
+		"name": "BRM",
+		"point": 28,
+		"year": 1968
+	},
+	{
+		"id": "9f10cc39-9fac-4d4b-8302-1c9ccf255c24",
+		"position": 6,
+		"name": "Honda",
+		"point": 14,
+		"year": 1968
+	},
+	{
+		"id": "d8f8a646-ab86-4fc8-a25b-d261a384838b",
+		"position": 7,
+		"name": "Cooper BRM",
+		"point": 14,
+		"year": 1968
+	},
+	{
+		"id": "4a7a12fd-eb2e-4fb2-be10-0dc5cbaffaea",
+		"position": 8,
+		"name": "Brabham Repco",
+		"point": 10,
+		"year": 1968
+	},
+	{
+		"id": "19592d63-bbae-4b57-ad6e-8234f3f7f62e",
+		"position": 9,
+		"name": "Matra",
+		"point": 8,
+		"year": 1968
+	},
+	{
+		"id": "30c3ce7a-c447-4e13-b20a-49875fb1cb73",
+		"position": 10,
+		"name": "Mclaren BRM",
+		"point": 3,
+		"year": 1968
+	},
+	{
+		"id": "c06dc763-f481-4e8a-a737-3d4a4ac3daf9",
+		"position": 1,
+		"name": "Matra Ford",
+		"point": 66,
+		"year": 1969
+	},
+	{
+		"id": "05a14ce0-708b-47cf-b239-12807eecbd5f",
+		"position": 2,
+		"name": "Brabham Ford",
+		"point": 49,
+		"year": 1969
+	},
+	{
+		"id": "dae8e86a-28c9-4901-8b5f-13381d0b1a9e",
+		"position": 3,
+		"name": "Lotus Ford",
+		"point": 47,
+		"year": 1969
+	},
+	{
+		"id": "d986aeb7-d1ef-437d-81fc-d256d3162da7",
+		"position": 4,
+		"name": "McLaren Ford",
+		"point": 38,
+		"year": 1969
+	},
+	{
+		"id": "71b4d1bc-91b1-4b2b-8bce-a46bbcca3a18",
+		"position": 5,
+		"name": "Ferrari",
+		"point": 7,
+		"year": 1969
+	},
+	{
+		"id": "2c1ea6e1-7b3a-4d92-aea8-084d9450cccf",
+		"position": 6,
+		"name": "BRM",
+		"point": 7,
+		"year": 1969
+	},
+	{
+		"id": "da1c64cc-ffeb-4da5-90dc-19f34e24acac",
+		"position": 1,
+		"name": "Lotus Ford",
+		"point": 59,
+		"year": 1970
+	},
+	{
+		"id": "43de2ea6-5003-46dd-ad43-ac4fef9275f0",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 52,
+		"year": 1970
+	},
+	{
+		"id": "4346ceff-bb59-4033-8e51-70be0302b561",
+		"position": 3,
+		"name": "March Ford",
+		"point": 48,
+		"year": 1970
+	},
+	{
+		"id": "d46bc8c5-1ffa-401a-87c8-6127e8d92d8a",
+		"position": 4,
+		"name": "Brabham Ford",
+		"point": 35,
+		"year": 1970
+	},
+	{
+		"id": "9365658f-4b6e-48fa-81ab-dd0ba213757a",
+		"position": 5,
+		"name": "McLaren Ford",
+		"point": 35,
+		"year": 1970
+	},
+	{
+		"id": "1dfe93b8-5e30-4384-a127-3c6275ddac69",
+		"position": 6,
+		"name": "BRM",
+		"point": 23,
+		"year": 1970
+	},
+	{
+		"id": "b661c213-beb6-46e8-a165-55a87d66932f",
+		"position": 7,
+		"name": "Matra",
+		"point": 23,
+		"year": 1970
+	},
+	{
+		"id": "791a8766-ece1-4ea5-8584-badf453f5778",
+		"position": 8,
+		"name": "Surtees Ford",
+		"point": 3,
+		"year": 1970
+	},
+	{
+		"id": "5733d881-576e-41e7-bcf1-f05dc7e963b7",
+		"position": 1,
+		"name": "Tyrrell Ford",
+		"point": 73,
+		"year": 1971
+	},
+	{
+		"id": "bf2e931a-eb3b-4a43-92c1-bd59200c1dcf",
+		"position": 2,
+		"name": "BRM",
+		"point": 36,
+		"year": 1971
+	},
+	{
+		"id": "d24216d6-74fd-4ee2-aa81-7f05e343815b",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 33,
+		"year": 1971
+	},
+	{
+		"id": "be3dd14c-b3d9-4bbb-8b14-cc407580df77",
+		"position": 4,
+		"name": "March Ford",
+		"point": 33,
+		"year": 1971
+	},
+	{
+		"id": "00a8c2cb-83a6-41b8-aab8-becede8fc86d",
+		"position": 5,
+		"name": "Lotus Ford",
+		"point": 21,
+		"year": 1971
+	},
+	{
+		"id": "630c17dc-e065-4889-8a83-cf7fe38c4479",
+		"position": 6,
+		"name": "McLaren Ford",
+		"point": 10,
+		"year": 1971
+	},
+	{
+		"id": "26e022e1-667c-4e79-97d4-b17d8f70e501",
+		"position": 7,
+		"name": "Matra",
+		"point": 9,
+		"year": 1971
+	},
+	{
+		"id": "c8f57fb6-1a1f-4c99-b27d-73bf909d1e7b",
+		"position": 8,
+		"name": "Surtees Ford",
+		"point": 8,
+		"year": 1971
+	},
+	{
+		"id": "55390c56-502e-4f80-8404-067d207a5a60",
+		"position": 9,
+		"name": "Brabham Ford",
+		"point": 5,
+		"year": 1971
+	},
+	{
+		"id": "df9147a0-b392-487f-b388-36f3f3e44213",
+		"position": 1,
+		"name": "Lotus Ford",
+		"point": 61,
+		"year": 1972
+	},
+	{
+		"id": "56fe4b79-f1dd-4bf2-9f7b-10d04752b426",
+		"position": 2,
+		"name": "Tyrrell Ford",
+		"point": 51,
+		"year": 1972
+	},
+	{
+		"id": "4e89d7a2-2198-47cd-8176-ffef246c74b4",
+		"position": 3,
+		"name": "McLaren Ford",
+		"point": 47,
+		"year": 1972
+	},
+	{
+		"id": "46791dde-9d33-4a59-b5f3-1dcb4d01b306",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 33,
+		"year": 1972
+	},
+	{
+		"id": "709bc493-c49a-4c73-94cf-ea163f0ef411",
+		"position": 5,
+		"name": "Surtees Ford",
+		"point": 18,
+		"year": 1972
+	},
+	{
+		"id": "f76f4115-4a1c-40b0-879a-539f29c993c4",
+		"position": 6,
+		"name": "March Ford",
+		"point": 15,
+		"year": 1972
+	},
+	{
+		"id": "7842d984-aa30-4932-8a24-2bf4e8a91ee8",
+		"position": 7,
+		"name": "BRM",
+		"point": 14,
+		"year": 1972
+	},
+	{
+		"id": "da54408e-02c5-49e7-b6ec-a316d0d56e59",
+		"position": 8,
+		"name": "Matra",
+		"point": 12,
+		"year": 1972
+	},
+	{
+		"id": "fc901122-b8be-464f-a61f-6745daba58a0",
+		"position": 9,
+		"name": "Brabham Ford",
+		"point": 7,
+		"year": 1972
+	},
+	{
+		"id": "bceb69e3-7f02-41c8-814b-632125279c66",
+		"position": 1,
+		"name": "Lotus Ford",
+		"point": 92,
+		"year": 1973
+	},
+	{
+		"id": "4184f85a-6d11-4af5-9d46-4cc118300942",
+		"position": 2,
+		"name": "Tyrrell Ford",
+		"point": 82,
+		"year": 1973
+	},
+	{
+		"id": "c59b9fc1-b4fd-4a61-b029-97f5d891638c",
+		"position": 3,
+		"name": "McLaren Ford",
+		"point": 58,
+		"year": 1973
+	},
+	{
+		"id": "9bebac84-02e8-49c0-9612-572203273da1",
+		"position": 4,
+		"name": "Brabham Ford",
+		"point": 22,
+		"year": 1973
+	},
+	{
+		"id": "9653f5ec-c4d6-40c4-b3fd-523a9bf6e1ce",
+		"position": 5,
+		"name": "March Ford",
+		"point": 14,
+		"year": 1973
+	},
+	{
+		"id": "4330856b-0420-45d7-85f9-5a05bb5e8ed0",
+		"position": 6,
+		"name": "Ferrari",
+		"point": 12,
+		"year": 1973
+	},
+	{
+		"id": "9d2d7a9b-8256-4765-9407-d8c548a44cb3",
+		"position": 7,
+		"name": "BRM",
+		"point": 12,
+		"year": 1973
+	},
+	{
+		"id": "5a8a42cb-9ade-44d7-891f-4b09924ff063",
+		"position": 8,
+		"name": "Shadow Ford",
+		"point": 9,
+		"year": 1973
+	},
+	{
+		"id": "4d8d5257-22f7-4ccd-ae48-776198f9db05",
+		"position": 9,
+		"name": "Surtees Ford",
+		"point": 7,
+		"year": 1973
+	},
+	{
+		"id": "b448c871-1b7f-4f44-a0ce-c6e11920c1ec",
+		"position": 10,
+		"name": "Iso Marlboro Ford",
+		"point": 2,
+		"year": 1973
+	},
+	{
+		"id": "5487d8b2-d82b-4530-874c-cc77d3363715",
+		"position": 11,
+		"name": "Tecno",
+		"point": 1,
+		"year": 1973
+	},
+	{
+		"id": "e41f49c2-84b9-40a3-9c09-35959d6827f0",
+		"position": 1,
+		"name": "McLaren Ford",
+		"point": 73,
+		"year": 1974
+	},
+	{
+		"id": "c6457e62-c410-4c20-aa7b-c1631177067e",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 65,
+		"year": 1974
+	},
+	{
+		"id": "4f6028ee-ee96-4b0d-8f47-02dbb7c2074a",
+		"position": 3,
+		"name": "Tyrrell Ford",
+		"point": 52,
+		"year": 1974
+	},
+	{
+		"id": "e692b6a4-0f93-4668-b8a9-27f4528896be",
+		"position": 4,
+		"name": "Lotus Ford",
+		"point": 42,
+		"year": 1974
+	},
+	{
+		"id": "d2683950-6091-416e-a217-760db2f5a52a",
+		"position": 5,
+		"name": "Brabham Ford",
+		"point": 35,
+		"year": 1974
+	},
+	{
+		"id": "5ef01504-37a3-48bc-81cd-b0c305142917",
+		"position": 6,
+		"name": "Hesketh Ford",
+		"point": 15,
+		"year": 1974
+	},
+	{
+		"id": "81726a21-54bc-4fb0-973e-6d5f6a8f78ee",
+		"position": 7,
+		"name": "BRM",
+		"point": 10,
+		"year": 1974
+	},
+	{
+		"id": "898c8214-ece8-493d-b130-67905dbbd3a4",
+		"position": 8,
+		"name": "Shadow Ford",
+		"point": 7,
+		"year": 1974
+	},
+	{
+		"id": "49ae585a-e9a7-4252-9947-e8a13cbd737f",
+		"position": 9,
+		"name": "March Ford",
+		"point": 6,
+		"year": 1974
+	},
+	{
+		"id": "5eb79bda-b304-4281-9753-836d47fcbe50",
+		"position": 10,
+		"name": "Iso Marlboro Ford",
+		"point": 4,
+		"year": 1974
+	},
+	{
+		"id": "a8398ecf-68ed-468a-a27c-0d0a9eb67841",
+		"position": 11,
+		"name": "Surtees Ford",
+		"point": 3,
+		"year": 1974
+	},
+	{
+		"id": "10758ce3-4041-42d8-ac1b-aa85a7c6dbce",
+		"position": 12,
+		"name": "Lola Ford",
+		"point": 1,
+		"year": 1974
+	},
+	{
+		"id": "a60134ab-a2e9-49de-becf-40dd7be4564c",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 72,
+		"year": 1975
+	},
+	{
+		"id": "8190f1af-12c3-4127-8e2e-c812aae92b89",
+		"position": 2,
+		"name": "Brabham Ford",
+		"point": 54,
+		"year": 1975
+	},
+	{
+		"id": "37fe2051-a6ac-4f48-92ca-e612f14f45cc",
+		"position": 3,
+		"name": "McLaren Ford",
+		"point": 53,
+		"year": 1975
+	},
+	{
+		"id": "9b112f42-f2e2-46ca-8d9f-d1e6e0b8d10d",
+		"position": 4,
+		"name": "Hesketh Ford",
+		"point": 33,
+		"year": 1975
+	},
+	{
+		"id": "63611671-9a42-4280-969e-225145697aef",
+		"position": 5,
+		"name": "Tyrrell Ford",
+		"point": 25,
+		"year": 1975
+	},
+	{
+		"id": "bed39153-ef7e-483c-9a90-6c5206f50a56",
+		"position": 6,
+		"name": "Shadow Ford",
+		"point": 9,
+		"year": 1975
+	},
+	{
+		"id": "2cff8209-34a1-4af1-8483-55f03868f3a6",
+		"position": 7,
+		"name": "Lotus Ford",
+		"point": 9,
+		"year": 1975
+	},
+	{
+		"id": "efca98a9-48c8-42c7-b3b4-4b7a34f08cb2",
+		"position": 8,
+		"name": "March Ford",
+		"point": 7,
+		"year": 1975
+	},
+	{
+		"id": "b4d66b5d-a393-45b2-a318-1e303906c9af",
+		"position": 9,
+		"name": "Frank Williams Racing Cars/Williams",
+		"point": 6,
+		"year": 1975
+	},
+	{
+		"id": "b9e0ff78-c460-43ab-998a-8ee1166a046a",
+		"position": 10,
+		"name": "Parnelli Ford",
+		"point": 5,
+		"year": 1975
+	},
+	{
+		"id": "97ce1536-4021-4560-885b-0d39f66c98ca",
+		"position": 11,
+		"name": "Hill Ford",
+		"point": 3,
+		"year": 1975
+	},
+	{
+		"id": "188625cd-0bd5-4cb2-9191-83e7867d318b",
+		"position": 12,
+		"name": "Penske Ford",
+		"point": 2,
+		"year": 1975
+	},
+	{
+		"id": "443ddcee-8b30-4117-bef0-cb5a2c1da2bd",
+		"position": 13,
+		"name": "Ensign Ford",
+		"point": 1,
+		"year": 1975
+	},
+	{
+		"id": "9a1c1a4c-303f-44e3-ad5b-945953b55fbd",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 83,
+		"year": 1976
+	},
+	{
+		"id": "6be3be26-eacc-4cef-a259-f054e12dff15",
+		"position": 2,
+		"name": "McLaren Ford",
+		"point": 74,
+		"year": 1976
+	},
+	{
+		"id": "cd920f8e-4291-471b-a208-96428e3f39ff",
+		"position": 3,
+		"name": "Tyrrell Ford",
+		"point": 71,
+		"year": 1976
+	},
+	{
+		"id": "1b3338ab-1dd0-4de3-b552-9cbb3b3ee925",
+		"position": 4,
+		"name": "Lotus Ford",
+		"point": 29,
+		"year": 1976
+	},
+	{
+		"id": "27eff0d9-2bd8-4d08-8159-4e370b45e78c",
+		"position": 5,
+		"name": "Penske Ford",
+		"point": 20,
+		"year": 1976
+	},
+	{
+		"id": "10fd9712-d39d-4a83-9cc8-746174494b95",
+		"position": 6,
+		"name": "Ligier Matra",
+		"point": 20,
+		"year": 1976
+	},
+	{
+		"id": "32cf7949-7529-42b3-901f-965f55539c36",
+		"position": 7,
+		"name": "March Ford",
+		"point": 19,
+		"year": 1976
+	},
+	{
+		"id": "20303000-d0db-49cf-b37b-b18d8554872c",
+		"position": 8,
+		"name": "Shadow Ford",
+		"point": 10,
+		"year": 1976
+	},
+	{
+		"id": "5ed944a6-3299-473f-b9c9-1b95ad787615",
+		"position": 9,
+		"name": "Brabham Alfa Romeo",
+		"point": 9,
+		"year": 1976
+	},
+	{
+		"id": "9568639b-08a9-4fad-81b7-1dcbc1d0c68b",
+		"position": 10,
+		"name": "Surtees Ford",
+		"point": 7,
+		"year": 1976
+	},
+	{
+		"id": "dc424f4b-2608-4ddc-832f-c5bd186bfbab",
+		"position": 11,
+		"name": "Fittipaldi Ford",
+		"point": 3,
+		"year": 1976
+	},
+	{
+		"id": "c11efdf4-d7d3-4037-a1e8-abdcbbf8c2bb",
+		"position": 12,
+		"name": "Ensign Ford",
+		"point": 2,
+		"year": 1976
+	},
+	{
+		"id": "ef8a0310-2b40-4331-8613-d73d6d92a21d",
+		"position": 13,
+		"name": "Parnelli Ford",
+		"point": 1,
+		"year": 1976
+	},
+	{
+		"id": "5a3b806b-6d17-4360-8659-20eb4a1e5222",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 95,
+		"year": 1977
+	},
+	{
+		"id": "4c35d309-d388-4b64-b73f-82e769dceb79",
+		"position": 2,
+		"name": "Lotus Ford",
+		"point": 62,
+		"year": 1977
+	},
+	{
+		"id": "21d723b6-4689-4da7-aa22-2a1fda31cd62",
+		"position": 3,
+		"name": "McLaren Ford",
+		"point": 60,
+		"year": 1977
+	},
+	{
+		"id": "793372e8-5136-4e31-911d-c0c333e11861",
+		"position": 4,
+		"name": "Wolf Ford",
+		"point": 55,
+		"year": 1977
+	},
+	{
+		"id": "3f4fb408-e7f9-49f2-824a-f2cb2fbee07f",
+		"position": 5,
+		"name": "Brabham Alfa Romeo",
+		"point": 27,
+		"year": 1977
+	},
+	{
+		"id": "fe7de46b-cda5-4ce7-9d69-0b77add8cd40",
+		"position": 6,
+		"name": "Tyrrell Ford",
+		"point": 27,
+		"year": 1977
+	},
+	{
+		"id": "35bf334e-b428-4e44-a7be-dcfef0a92d93",
+		"position": 7,
+		"name": "Shadow Ford",
+		"point": 23,
+		"year": 1977
+	},
+	{
+		"id": "69e5669e-a4f3-404f-bf4f-6a0cfa59f0a7",
+		"position": 8,
+		"name": "Ligier Matra",
+		"point": 18,
+		"year": 1977
+	},
+	{
+		"id": "fe13becb-42a8-42c5-9adb-0e59b34b24d8",
+		"position": 9,
+		"name": "Fittipaldi Ford",
+		"point": 11,
+		"year": 1977
+	},
+	{
+		"id": "839b1b42-df60-4997-9f67-310c656bb732",
+		"position": 10,
+		"name": "Ensign Ford",
+		"point": 10,
+		"year": 1977
+	},
+	{
+		"id": "aa0eaf7e-6468-4da2-a3b3-6181e6123fc5",
+		"position": 11,
+		"name": "Surtees Ford",
+		"point": 6,
+		"year": 1977
+	},
+	{
+		"id": "71234554-49b9-44dd-a9d2-c39425729546",
+		"position": 12,
+		"name": "Penske Ford",
+		"point": 1,
+		"year": 1977
+	},
+	{
+		"id": "df6d05cb-63d2-4c39-8aba-d878ef47d320",
+		"position": 1,
+		"name": "Lotus Ford",
+		"point": 86,
+		"year": 1978
+	},
+	{
+		"id": "b5bd09fd-6fc1-4b58-8519-bb89531331d3",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 58,
+		"year": 1978
+	},
+	{
+		"id": "a513dc76-bfb4-42a8-953a-40acd8c67f58",
+		"position": 3,
+		"name": "Brabham Alfa Romeo",
+		"point": 53,
+		"year": 1978
+	},
+	{
+		"id": "c76a737f-d634-4ba0-9d68-bc51630bd672",
+		"position": 4,
+		"name": "Tyrrell Ford",
+		"point": 38,
+		"year": 1978
+	},
+	{
+		"id": "c27ca4ad-4588-44a0-a29e-2d46f49d4cc2",
+		"position": 5,
+		"name": "Wolf Ford",
+		"point": 24,
+		"year": 1978
+	},
+	{
+		"id": "0525bf96-4aca-44f1-a488-947201eeca4e",
+		"position": 6,
+		"name": "Ligier Matra",
+		"point": 19,
+		"year": 1978
+	},
+	{
+		"id": "4b40c695-48e4-4c41-9122-754845e95eb1",
+		"position": 7,
+		"name": "Fittipaldi Ford",
+		"point": 17,
+		"year": 1978
+	},
+	{
+		"id": "cf1c583a-b4e5-4d8b-a7d3-01ae8e1da84e",
+		"position": 8,
+		"name": "McLaren Ford",
+		"point": 15,
+		"year": 1978
+	},
+	{
+		"id": "78365bcb-4c6a-4a53-a5e7-c146d97fb2c5",
+		"position": 9,
+		"name": "Williams Ford",
+		"point": 11,
+		"year": 1978
+	},
+	{
+		"id": "79055412-4a91-4179-9cd8-c8568537e1df",
+		"position": 10,
+		"name": "Arrows Ford",
+		"point": 11,
+		"year": 1978
+	},
+	{
+		"id": "4fca1885-da79-48de-b3d0-1bccc2a6b774",
+		"position": 11,
+		"name": "Shadow Ford",
+		"point": 6,
+		"year": 1978
+	},
+	{
+		"id": "b246d836-dd29-4afe-b7c2-5f8d3be0c7d6",
+		"position": 12,
+		"name": "Renault",
+		"point": 3,
+		"year": 1978
+	},
+	{
+		"id": "f01a0412-9c44-4743-a57d-bac716d3385c",
+		"position": 13,
+		"name": "Surtees Ford",
+		"point": 1,
+		"year": 1978
+	},
+	{
+		"id": "6a9444be-7d69-4fff-bc79-c47db379d59e",
+		"position": 14,
+		"name": "Ensign Ford",
+		"point": 1,
+		"year": 1978
+	},
+	{
+		"id": "ead37be4-30dc-449a-835c-d517952068c4",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 113,
+		"year": 1979
+	},
+	{
+		"id": "86c1fd8a-7241-47a7-a330-f45b88bc0630",
+		"position": 2,
+		"name": "Williams Ford",
+		"point": 75,
+		"year": 1979
+	},
+	{
+		"id": "663b020b-87b7-41ef-8f75-c39832eb70d9",
+		"position": 3,
+		"name": "Ligier Ford",
+		"point": 61,
+		"year": 1979
+	},
+	{
+		"id": "0ac5d15b-7b08-4ae5-81fa-7b7bbf59ebc3",
+		"position": 4,
+		"name": "Lotus Ford",
+		"point": 39,
+		"year": 1979
+	},
+	{
+		"id": "33358ab1-3d9f-4d7a-a6ac-9c936622a325",
+		"position": 5,
+		"name": "Tyrrell Ford",
+		"point": 28,
+		"year": 1979
+	},
+	{
+		"id": "a77ba62c-f44e-4932-8c55-8fb5341eed1d",
+		"position": 6,
+		"name": "Renault",
+		"point": 26,
+		"year": 1979
+	},
+	{
+		"id": "1bc8a4a0-88ed-435f-bfc9-7db7ad974029",
+		"position": 7,
+		"name": "McLaren Ford",
+		"point": 15,
+		"year": 1979
+	},
+	{
+		"id": "05c5ba61-7406-4eb4-8ced-22126360cbe9",
+		"position": 8,
+		"name": "Brabham Ford",
+		"point": 7,
+		"year": 1979
+	},
+	{
+		"id": "c838f033-f598-4b0c-9f8c-7825034b5901",
+		"position": 9,
+		"name": "Arrows Ford",
+		"point": 5,
+		"year": 1979
+	},
+	{
+		"id": "53273e4b-c0f4-46f2-875e-7b5a13c04709",
+		"position": 10,
+		"name": "Shadow Ford",
+		"point": 3,
+		"year": 1979
+	},
+	{
+		"id": "ff846590-d654-4c14-908c-c306fe23473e",
+		"position": 11,
+		"name": "ATS Ford",
+		"point": 2,
+		"year": 1979
+	},
+	{
+		"id": "0174efe7-b4f6-4f57-a344-fe8c5397f8c4",
+		"position": 12,
+		"name": "Fittipaldi Ford",
+		"point": 1,
+		"year": 1979
+	},
+	{
+		"id": "39fbda8b-9486-4098-8b64-29ac6e9c76a4",
+		"position": 1,
+		"name": "Williams Ford",
+		"point": 120,
+		"year": 1980
+	},
+	{
+		"id": "565b0f7c-9087-4940-8538-c3d7010973b3",
+		"position": 2,
+		"name": "Ligier Ford",
+		"point": 66,
+		"year": 1980
+	},
+	{
+		"id": "b9ebd6c6-a1cd-4046-a40d-5b2a72af5d38",
+		"position": 3,
+		"name": "Brabham Ford",
+		"point": 55,
+		"year": 1980
+	},
+	{
+		"id": "5f131c2f-a3ea-4896-b503-3026d971ac8f",
+		"position": 4,
+		"name": "Renault",
+		"point": 38,
+		"year": 1980
+	},
+	{
+		"id": "6b73541d-94f8-4c9f-bfa0-6a80fcb572c1",
+		"position": 5,
+		"name": "Lotus Ford",
+		"point": 14,
+		"year": 1980
+	},
+	{
+		"id": "c5ed0d2b-5a03-41e8-b876-4c62c9aa9c4b",
+		"position": 6,
+		"name": "Tyrrell Ford",
+		"point": 12,
+		"year": 1980
+	},
+	{
+		"id": "b63c2f77-1db8-4d53-9f6c-235c1d1229bf",
+		"position": 7,
+		"name": "Arrows Ford",
+		"point": 11,
+		"year": 1980
+	},
+	{
+		"id": "35819c0c-b876-4d79-98ef-9d7e3c891715",
+		"position": 8,
+		"name": "Fittipaldi Ford",
+		"point": 11,
+		"year": 1980
+	},
+	{
+		"id": "d76cee2a-d59b-4483-b3af-9c9ad75f2419",
+		"position": 9,
+		"name": "McLaren Ford",
+		"point": 11,
+		"year": 1980
+	},
+	{
+		"id": "280eca92-2ba9-4aa2-bd2d-8da79e28b531",
+		"position": 10,
+		"name": "Ferrari",
+		"point": 8,
+		"year": 1980
+	},
+	{
+		"id": "2e03708b-d7bd-495e-b8cc-19e4aeacb649",
+		"position": 11,
+		"name": "Alfa Romeo",
+		"point": 4,
+		"year": 1980
+	},
+	{
+		"id": "5d9d7f9b-ad8d-4269-95e1-eda3ffeaa38e",
+		"position": 1,
+		"name": "Williams Ford",
+		"point": 95,
+		"year": 1981
+	},
+	{
+		"id": "1e414c22-6cfc-44e4-80bf-a512542e2593",
+		"position": 2,
+		"name": "Brabham Ford",
+		"point": 61,
+		"year": 1981
+	},
+	{
+		"id": "33c5a3d0-08c6-4933-9678-2977c3d8a2e8",
+		"position": 3,
+		"name": "Renault",
+		"point": 54,
+		"year": 1981
+	},
+	{
+		"id": "305309b4-a647-40d3-97ab-72e4f11dd376",
+		"position": 4,
+		"name": "Ligier Matra",
+		"point": 44,
+		"year": 1981
+	},
+	{
+		"id": "fa550532-b17e-46ac-95cf-605996dc0e81",
+		"position": 5,
+		"name": "Ferrari",
+		"point": 34,
+		"year": 1981
+	},
+	{
+		"id": "a8af76e9-02ce-45d7-bd71-77c75b464b4e",
+		"position": 6,
+		"name": "McLaren Ford",
+		"point": 28,
+		"year": 1981
+	},
+	{
+		"id": "9bddb08b-2bc7-4e0f-8927-efa82b94fdbe",
+		"position": 7,
+		"name": "Lotus Ford",
+		"point": 22,
+		"year": 1981
+	},
+	{
+		"id": "dc36dc32-0c75-4012-96e3-a9044a3c9670",
+		"position": 8,
+		"name": "Arrows Ford",
+		"point": 10,
+		"year": 1981
+	},
+	{
+		"id": "3bb7e115-e456-43c3-8a8b-4dced432ff54",
+		"position": 9,
+		"name": "Alfa Romeo",
+		"point": 10,
+		"year": 1981
+	},
+	{
+		"id": "a7818ff6-ed63-406e-a509-72d7d77cdfcd",
+		"position": 10,
+		"name": "Tyrrell Ford",
+		"point": 10,
+		"year": 1981
+	},
+	{
+		"id": "934426a4-1eb7-4a29-8ef8-3ae97fe44ff8",
+		"position": 11,
+		"name": "Ensign Ford",
+		"point": 5,
+		"year": 1981
+	},
+	{
+		"id": "a1108f31-2ceb-4023-b8c7-763e35c19248",
+		"position": 12,
+		"name": "Theodore Ford",
+		"point": 1,
+		"year": 1981
+	},
+	{
+		"id": "5f5d6cdd-5419-40d7-b872-015e753c30e8",
+		"position": 13,
+		"name": "ATS Ford",
+		"point": 1,
+		"year": 1981
+	},
+	{
+		"id": "af548720-97ec-47e2-b367-d1a2861b2c7c",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 74,
+		"year": 1982
+	},
+	{
+		"id": "522a78c4-3e78-4e2d-929c-2a8b740d1003",
+		"position": 2,
+		"name": "McLaren Ford",
+		"point": 69,
+		"year": 1982
+	},
+	{
+		"id": "aa9685a9-f65c-4c41-a1c3-6cce7c92b696",
+		"position": 3,
+		"name": "Renault",
+		"point": 62,
+		"year": 1982
+	},
+	{
+		"id": "ea0004ba-973f-4e2d-b2fa-58d28f5e09aa",
+		"position": 4,
+		"name": "Williams Ford",
+		"point": 58,
+		"year": 1982
+	},
+	{
+		"id": "ff9246cd-1269-4266-b032-e776409df73c",
+		"position": 5,
+		"name": "Lotus Ford",
+		"point": 30,
+		"year": 1982
+	},
+	{
+		"id": "e5c5e087-fa15-43ef-a00e-0d8e46282ea1",
+		"position": 6,
+		"name": "Tyrrell Ford",
+		"point": 25,
+		"year": 1982
+	},
+	{
+		"id": "63a5fdd6-7685-4448-aefb-b4eda24a279b",
+		"position": 7,
+		"name": "Brabham BMW",
+		"point": 22,
+		"year": 1982
+	},
+	{
+		"id": "7aa0b184-b3b9-4f0f-9604-a4d3497b0ba6",
+		"position": 8,
+		"name": "Ligier Matra",
+		"point": 20,
+		"year": 1982
+	},
+	{
+		"id": "f4d49446-5194-4980-90aa-f1e2f66f381e",
+		"position": 9,
+		"name": "Brabham Ford",
+		"point": 19,
+		"year": 1982
+	},
+	{
+		"id": "d108aba3-e002-4d38-b881-fd83bd0a95d0",
+		"position": 10,
+		"name": "Alfa Romeo",
+		"point": 7,
+		"year": 1982
+	},
+	{
+		"id": "83aed6a9-e652-427e-ad15-bb4cd0127452",
+		"position": 11,
+		"name": "Arrows Ford",
+		"point": 5,
+		"year": 1982
+	},
+	{
+		"id": "e0d03906-40fa-459d-8eee-8a35c9521723",
+		"position": 12,
+		"name": "ATS Ford",
+		"point": 4,
+		"year": 1982
+	},
+	{
+		"id": "7686a6b5-56df-4317-9b63-fb977f87cbe0",
+		"position": 13,
+		"name": "Osella Ford",
+		"point": 3,
+		"year": 1982
+	},
+	{
+		"id": "285f0281-3852-4e16-b092-d2baee1342cf",
+		"position": 14,
+		"name": "Fittipaldi Ford",
+		"point": 1,
+		"year": 1982
+	},
+	{
+		"id": "077dafc7-b046-42d7-97a5-17e0d1c1cf5d",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 89,
+		"year": 1983
+	},
+	{
+		"id": "c2302c32-666b-4b26-9f3f-4211b206180d",
+		"position": 2,
+		"name": "Renault",
+		"point": 79,
+		"year": 1983
+	},
+	{
+		"id": "515fac99-a622-4008-ae80-3f3f26d149cc",
+		"position": 3,
+		"name": "Brabham BMW",
+		"point": 72,
+		"year": 1983
+	},
+	{
+		"id": "6171ce3d-984f-4ad1-9a72-5880762bf7ee",
+		"position": 4,
+		"name": "Williams Ford",
+		"point": 36,
+		"year": 1983
+	},
+	{
+		"id": "998aca3b-cbb3-4550-af0d-7af9481e21f1",
+		"position": 5,
+		"name": "McLaren Ford",
+		"point": 34,
+		"year": 1983
+	},
+	{
+		"id": "1c4a074a-b6e3-4b50-a140-f30f89911133",
+		"position": 6,
+		"name": "Alfa Romeo",
+		"point": 18,
+		"year": 1983
+	},
+	{
+		"id": "bf279f21-1a6a-4b44-ac6a-4b84694a9e71",
+		"position": 7,
+		"name": "Tyrrell Ford",
+		"point": 12,
+		"year": 1983
+	},
+	{
+		"id": "af9e4d32-d401-4512-9e3f-08ea6b387403",
+		"position": 8,
+		"name": "Lotus Renault",
+		"point": 11,
+		"year": 1983
+	},
+	{
+		"id": "22f4cf91-5a2f-434b-963c-aaa4c5bcfc54",
+		"position": 9,
+		"name": "Toleman Hart",
+		"point": 10,
+		"year": 1983
+	},
+	{
+		"id": "70ccaf96-ae4d-4905-8904-af1d29c16506",
+		"position": 10,
+		"name": "Arrows Ford",
+		"point": 4,
+		"year": 1983
+	},
+	{
+		"id": "cf451e08-a2f7-41cc-9f7f-8740c1c4a85a",
+		"position": 11,
+		"name": "Williams Honda",
+		"point": 2,
+		"year": 1983
+	},
+	{
+		"id": "7533fa83-8563-4c1e-ac06-e379861ff0fc",
+		"position": 12,
+		"name": "Theodore Ford",
+		"point": 1,
+		"year": 1983
+	},
+	{
+		"id": "12a393e5-b776-4af8-a994-6960fdba280c",
+		"position": 13,
+		"name": "Lotus Ford",
+		"point": 1,
+		"year": 1983
+	},
+	{
+		"id": "fb9443a1-34b2-4e6c-8790-7512243ab086",
+		"position": 1,
+		"name": "McLaren TAG",
+		"point": 143,
+		"year": 1984
+	},
+	{
+		"id": "b9788739-aff2-4bf4-b10c-a153c155af97",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 57,
+		"year": 1984
+	},
+	{
+		"id": "80ce08b4-58d1-4afd-aefe-15f41a14bbbf",
+		"position": 3,
+		"name": "Lotus Renault",
+		"point": 47,
+		"year": 1984
+	},
+	{
+		"id": "3aaea4ae-10d4-49c2-a66e-99990ca59f25",
+		"position": 4,
+		"name": "Brabham BMW",
+		"point": 38,
+		"year": 1984
+	},
+	{
+		"id": "f8eb492a-9d59-40da-8980-d23bd4a7629b",
+		"position": 5,
+		"name": "Renault",
+		"point": 34,
+		"year": 1984
+	},
+	{
+		"id": "8fc4da37-a32a-4eb4-bfbb-3c40ec3a4be5",
+		"position": 6,
+		"name": "Williams Honda",
+		"point": 25,
+		"year": 1984
+	},
+	{
+		"id": "a21f4544-91af-450c-9c3a-f970d0b1c87b",
+		"position": 7,
+		"name": "Toleman Hart",
+		"point": 16,
+		"year": 1984
+	},
+	{
+		"id": "7603f980-00d6-42be-a6c1-efe6addbf3a9",
+		"position": 8,
+		"name": "Alfa Romeo",
+		"point": 11,
+		"year": 1984
+	},
+	{
+		"id": "21b4b950-8b68-4528-9761-1799e242eda0",
+		"position": 9,
+		"name": "Arrows BMW",
+		"point": 3,
+		"year": 1984
+	},
+	{
+		"id": "6449fe91-176d-467d-b7e1-5a5ad1dac7ad",
+		"position": 10,
+		"name": "Ligier Renault",
+		"point": 3,
+		"year": 1984
+	},
+	{
+		"id": "495e814b-9442-403e-baf2-988a622da74e",
+		"position": 11,
+		"name": "Arrows Ford",
+		"point": 3,
+		"year": 1984
+	},
+	{
+		"id": "37fc173b-c007-4e60-8f56-a320eb5cd387",
+		"position": 12,
+		"name": "Osella Alfa Romeo",
+		"point": 2,
+		"year": 1984
+	},
+	{
+		"id": "4a958954-238a-4715-83ae-5f041840db53",
+		"position": 1,
+		"name": "McLaren TAG",
+		"point": 90,
+		"year": 1985
+	},
+	{
+		"id": "781db821-3909-4e1c-a403-834f539eb975",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 82,
+		"year": 1985
+	},
+	{
+		"id": "098bfeb3-dd63-4b2d-abe3-84a84b200e7b",
+		"position": 3,
+		"name": "Lotus Renault",
+		"point": 71,
+		"year": 1985
+	},
+	{
+		"id": "c9c052e1-27b3-42c3-b1f5-3231d3ae073d",
+		"position": 4,
+		"name": "Williams Honda",
+		"point": 71,
+		"year": 1985
+	},
+	{
+		"id": "2d9338cb-3cc9-4542-8673-3ae433e14553",
+		"position": 5,
+		"name": "Brabham BMW",
+		"point": 26,
+		"year": 1985
+	},
+	{
+		"id": "041a2e24-6232-4d14-b4c2-007ef2d686d9",
+		"position": 6,
+		"name": "Ligier Renault",
+		"point": 23,
+		"year": 1985
+	},
+	{
+		"id": "f9975c37-3335-4cea-8b09-132045beedcf",
+		"position": 7,
+		"name": "Renault",
+		"point": 16,
+		"year": 1985
+	},
+	{
+		"id": "cf5f6dd9-61ab-4e25-93f0-4e7f3822783b",
+		"position": 8,
+		"name": "Arrows BMW",
+		"point": 14,
+		"year": 1985
+	},
+	{
+		"id": "634f2dab-2bf6-41d3-bbb5-c31e5f1d4ff8",
+		"position": 9,
+		"name": "Tyrrell Ford",
+		"point": 4,
+		"year": 1985
+	},
+	{
+		"id": "916e0e9e-a95f-4c91-86ed-c1cfc3097af4",
+		"position": 10,
+		"name": "Tyrrell Renault",
+		"point": 3,
+		"year": 1985
+	},
+	{
+		"id": "aae61071-2150-4b4e-9c13-6db0d6fc5474",
+		"position": 1,
+		"name": "Williams Honda",
+		"point": 141,
+		"year": 1986
+	},
+	{
+		"id": "fd489bca-2251-4edf-873b-9894f40a2444",
+		"position": 2,
+		"name": "McLaren TAG",
+		"point": 96,
+		"year": 1986
+	},
+	{
+		"id": "6bfbb027-ddb0-4975-8f7e-b0d5f4c678f2",
+		"position": 3,
+		"name": "Lotus Renault",
+		"point": 58,
+		"year": 1986
+	},
+	{
+		"id": "db6f06f8-bdc3-4c82-b3a4-1f4e8685904d",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 37,
+		"year": 1986
+	},
+	{
+		"id": "bef37e1a-3bef-49d7-9a03-fa2defbdcd9e",
+		"position": 5,
+		"name": "Ligier Renault",
+		"point": 29,
+		"year": 1986
+	},
+	{
+		"id": "1f3fb9cb-5f1c-4108-bf59-7926e2a6e17a",
+		"position": 6,
+		"name": "Benetton BMW",
+		"point": 19,
+		"year": 1986
+	},
+	{
+		"id": "4e238071-bb2b-49f0-b9aa-b71d32e5c52b",
+		"position": 7,
+		"name": "Tyrrell Renault",
+		"point": 11,
+		"year": 1986
+	},
+	{
+		"id": "a638448a-bd7c-4e2a-8df2-01c7c1f2c1a0",
+		"position": 8,
+		"name": "Lola Ford",
+		"point": 6,
+		"year": 1986
+	},
+	{
+		"id": "fd44afe4-b776-4f1f-bd13-c5def3a30ec7",
+		"position": 9,
+		"name": "Brabham BMW",
+		"point": 2,
+		"year": 1986
+	},
+	{
+		"id": "71bd89a4-e07d-4032-a847-0f7014231c18",
+		"position": 10,
+		"name": "Arrows BMW",
+		"point": 1,
+		"year": 1986
+	},
+	{
+		"id": "74b8fbf3-c466-4dc4-8d94-e5db7b202d6f",
+		"position": 1,
+		"name": "Williams Honda",
+		"point": 137,
+		"year": 1987
+	},
+	{
+		"id": "d1a4119b-45c2-497b-8159-4f682187d8a4",
+		"position": 2,
+		"name": "McLaren TAG",
+		"point": 76,
+		"year": 1987
+	},
+	{
+		"id": "4035002f-addb-41f8-abad-a507b259991b",
+		"position": 3,
+		"name": "Lotus Honda",
+		"point": 64,
+		"year": 1987
+	},
+	{
+		"id": "4bd27544-aa42-4cce-9116-60e1096afc59",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 53,
+		"year": 1987
+	},
+	{
+		"id": "a86793e8-9bf7-437b-b375-fede2c59715f",
+		"position": 5,
+		"name": "Benetton Ford",
+		"point": 28,
+		"year": 1987
+	},
+	{
+		"id": "00e00dd7-41e9-40ad-9665-69cc67d266af",
+		"position": 6,
+		"name": "Tyrrell Ford",
+		"point": 11,
+		"year": 1987
+	},
+	{
+		"id": "a73e519b-d26a-4691-b577-9a0adcb3483d",
+		"position": 7,
+		"name": "Arrows Megatron",
+		"point": 11,
+		"year": 1987
+	},
+	{
+		"id": "538091ff-dc45-49e5-8f48-bef0751ff19c",
+		"position": 8,
+		"name": "Brabham BMW",
+		"point": 10,
+		"year": 1987
+	},
+	{
+		"id": "57f10660-44a2-41e1-b44b-4d490568240e",
+		"position": 9,
+		"name": "Lola Ford",
+		"point": 3,
+		"year": 1987
+	},
+	{
+		"id": "670a200d-122e-4d60-9813-b8f6e8f66caa",
+		"position": 10,
+		"name": "Zakspeed",
+		"point": 2,
+		"year": 1987
+	},
+	{
+		"id": "16e13832-288d-4224-a2ae-fed7c09f99a3",
+		"position": 11,
+		"name": "March Ford",
+		"point": 1,
+		"year": 1987
+	},
+	{
+		"id": "5b27373d-f538-485f-b127-fb0e715b9261",
+		"position": 12,
+		"name": "Ligier Megatron",
+		"point": 1,
+		"year": 1987
+	},
+	{
+		"id": "19c4e807-722a-4aa8-895e-6eed5c319340",
+		"position": 13,
+		"name": "AGS Ford",
+		"point": 1,
+		"year": 1987
+	},
+	{
+		"id": "c4406649-35e1-498f-85e1-bc7e44cf66ae",
+		"position": 1,
+		"name": "McLaren Honda",
+		"point": 199,
+		"year": 1988
+	},
+	{
+		"id": "e5a7ad50-01bd-46d6-8b7f-104b8859b45e",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 65,
+		"year": 1988
+	},
+	{
+		"id": "da92e72d-cd20-4024-84cc-b8c762da5f2b",
+		"position": 3,
+		"name": "Benetton Ford",
+		"point": 39,
+		"year": 1988
+	},
+	{
+		"id": "0cf1e53a-b527-411c-b7ff-4906e07c1064",
+		"position": 4,
+		"name": "Arrows Megatron",
+		"point": 23,
+		"year": 1988
+	},
+	{
+		"id": "4b7fe69b-c6a2-40cd-9a21-c7fae41c6ac7",
+		"position": 5,
+		"name": "Lotus Honda",
+		"point": 23,
+		"year": 1988
+	},
+	{
+		"id": "a62e68db-8381-4936-9cca-e2f266f292f8",
+		"position": 6,
+		"name": "March Judd",
+		"point": 22,
+		"year": 1988
+	},
+	{
+		"id": "99f5e7f5-e619-4523-82ac-4767e0aecd73",
+		"position": 7,
+		"name": "Williams Judd",
+		"point": 20,
+		"year": 1988
+	},
+	{
+		"id": "c3b4e80d-9e99-4a1e-95b8-86cf7e5d43fa",
+		"position": 8,
+		"name": "Tyrrell Ford",
+		"point": 5,
+		"year": 1988
+	},
+	{
+		"id": "8767615e-3ff5-4e8e-813b-e47c96af578f",
+		"position": 9,
+		"name": "Rial Ford",
+		"point": 3,
+		"year": 1988
+	},
+	{
+		"id": "508ab854-bb2d-4af2-a9bc-7110c4d5d95d",
+		"position": 10,
+		"name": "Minardi Ford",
+		"point": 1,
+		"year": 1988
+	},
+	{
+		"id": "dc9655f7-6aec-4cce-95aa-6147881a5016",
+		"position": 1,
+		"name": "McLaren Honda",
+		"point": 141,
+		"year": 1989
+	},
+	{
+		"id": "5992be01-b601-4854-a1d9-64bb2e9c1c27",
+		"position": 2,
+		"name": "Williams Renault",
+		"point": 77,
+		"year": 1989
+	},
+	{
+		"id": "4e10a7a1-08ed-47dc-b121-646501ed3d16",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 59,
+		"year": 1989
+	},
+	{
+		"id": "8360f5a9-d7ff-4e63-89d2-3b46f3169561",
+		"position": 4,
+		"name": "Benetton Ford",
+		"point": 39,
+		"year": 1989
+	},
+	{
+		"id": "09a5de8f-8d66-4f12-b0ac-861f6478f1ed",
+		"position": 5,
+		"name": "Tyrrell Ford",
+		"point": 16,
+		"year": 1989
+	},
+	{
+		"id": "ae26f709-aa8d-481a-bfde-a761bc691260",
+		"position": 6,
+		"name": "Lotus Judd",
+		"point": 15,
+		"year": 1989
+	},
+	{
+		"id": "8ca3b51e-7882-4d74-80b5-e81bfb1751ea",
+		"position": 7,
+		"name": "Arrows Ford",
+		"point": 13,
+		"year": 1989
+	},
+	{
+		"id": "8329ff74-1e73-4347-ada7-7e24189c7593",
+		"position": 8,
+		"name": "Dallara Ford",
+		"point": 8,
+		"year": 1989
+	},
+	{
+		"id": "7047f19a-bbf4-40a3-a400-d6db46346e49",
+		"position": 9,
+		"name": "Brabham Judd",
+		"point": 8,
+		"year": 1989
+	},
+	{
+		"id": "af1def4c-f16e-4462-b184-4ac1438f481c",
+		"position": 10,
+		"name": "Onyx Ford",
+		"point": 6,
+		"year": 1989
+	},
+	{
+		"id": "2a97202b-00d3-4826-a4ce-b78f7e10c319",
+		"position": 11,
+		"name": "Minardi Ford",
+		"point": 6,
+		"year": 1989
+	},
+	{
+		"id": "682d8b59-cfce-4ad8-aa98-d440b8ee7b25",
+		"position": 12,
+		"name": "March Judd",
+		"point": 4,
+		"year": 1989
+	},
+	{
+		"id": "7c80bec4-80e1-4fa5-87cb-df873a21727f",
+		"position": 13,
+		"name": "Rial Ford",
+		"point": 3,
+		"year": 1989
+	},
+	{
+		"id": "5d439a40-655a-4dfa-b393-5587230f2ca8",
+		"position": 14,
+		"name": "Ligier Ford",
+		"point": 3,
+		"year": 1989
+	},
+	{
+		"id": "91b59c44-fbfa-49cf-b6e1-ef7c9b206edc",
+		"position": 15,
+		"name": "AGS Ford",
+		"point": 1,
+		"year": 1989
+	},
+	{
+		"id": "1d932397-7f6c-4a3d-bfb7-f3dafcc63fdf",
+		"position": 16,
+		"name": "Lola Lamborghini",
+		"point": 1,
+		"year": 1989
+	},
+	{
+		"id": "e64496fa-2ce1-40a7-90cb-2f3a1caef37e",
+		"position": 1,
+		"name": "McLaren Honda",
+		"point": 121,
+		"year": 1990
+	},
+	{
+		"id": "8853b6f0-567f-4d0e-aa7a-892f75ff4cc5",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 110,
+		"year": 1990
+	},
+	{
+		"id": "3312d14a-0c5b-4279-9eae-8f4141dbd336",
+		"position": 3,
+		"name": "Benetton Ford",
+		"point": 71,
+		"year": 1990
+	},
+	{
+		"id": "81627a91-b3dc-4af2-a317-93ab471e305d",
+		"position": 4,
+		"name": "Williams Renault",
+		"point": 57,
+		"year": 1990
+	},
+	{
+		"id": "9ff4cca8-4568-4387-8320-5be2c388cfc3",
+		"position": 5,
+		"name": "Tyrrell Ford",
+		"point": 16,
+		"year": 1990
+	},
+	{
+		"id": "c937ebae-0219-4ffe-94ed-ce0721fae65a",
+		"position": 6,
+		"name": "Lola Lamborghini",
+		"point": 11,
+		"year": 1990
+	},
+	{
+		"id": "8038a968-fc1e-4d05-9615-718010370eff",
+		"position": 7,
+		"name": "Leyton House Judd",
+		"point": 7,
+		"year": 1990
+	},
+	{
+		"id": "bf282a95-e662-4fa4-84f4-ab219a2ef736",
+		"position": 8,
+		"name": "Lotus Lamborghini",
+		"point": 3,
+		"year": 1990
+	},
+	{
+		"id": "5fbe0454-2249-44f7-afc6-00c5f2579e3c",
+		"position": 9,
+		"name": "Arrows Ford",
+		"point": 2,
+		"year": 1990
+	},
+	{
+		"id": "c0cac647-a0a0-4dc6-942d-68468d138d34",
+		"position": 10,
+		"name": "Brabham Judd",
+		"point": 2,
+		"year": 1990
+	},
+	{
+		"id": "7293c538-f437-4237-a970-43880a85bd18",
+		"position": 1,
+		"name": "McLaren Honda",
+		"point": 139,
+		"year": 1991
+	},
+	{
+		"id": "a9fde0ca-668c-4f78-8cab-ba54ad08f127",
+		"position": 2,
+		"name": "Williams Renault",
+		"point": 125,
+		"year": 1991
+	},
+	{
+		"id": "d715418a-dd6d-44b7-bb64-a5e4ce91741d",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 55,
+		"year": 1991
+	},
+	{
+		"id": "8450e1cc-bb23-4528-86c7-2585e3f50a96",
+		"position": 4,
+		"name": "Benetton Ford",
+		"point": 38,
+		"year": 1991
+	},
+	{
+		"id": "cbf90602-6e98-4964-b27b-cdf43efc80cf",
+		"position": 5,
+		"name": "Jordan Ford",
+		"point": 13,
+		"year": 1991
+	},
+	{
+		"id": "4789957a-863f-4c56-957d-22efbb124b3a",
+		"position": 6,
+		"name": "Tyrrell Honda",
+		"point": 12,
+		"year": 1991
+	},
+	{
+		"id": "a1b16aa2-6b55-417c-844f-42315a05185e",
+		"position": 7,
+		"name": "Minardi Ferrari",
+		"point": 6,
+		"year": 1991
+	},
+	{
+		"id": "6c481e4a-9f1d-4459-9ca9-865404e1d2c7",
+		"position": 8,
+		"name": "Dallara Judd",
+		"point": 5,
+		"year": 1991
+	},
+	{
+		"id": "e38afa30-7295-443d-b5a4-eaeb45f6f69d",
+		"position": 9,
+		"name": "Lotus Judd",
+		"point": 3,
+		"year": 1991
+	},
+	{
+		"id": "b43b4440-bd4f-4e9d-af2d-006b4401858c",
+		"position": 10,
+		"name": "Brabham Yamaha",
+		"point": 3,
+		"year": 1991
+	},
+	{
+		"id": "6fb9c08f-4c98-481d-8d50-e49cde0a861f",
+		"position": 11,
+		"name": "Lola Ford",
+		"point": 2,
+		"year": 1991
+	},
+	{
+		"id": "0c67b4d3-564d-41f6-bf49-4408e8e659bf",
+		"position": 12,
+		"name": "Leyton House Ilmor",
+		"point": 1,
+		"year": 1991
+	},
+	{
+		"id": "114397c2-d36e-4b6a-b75d-109f732eedf0",
+		"position": 1,
+		"name": "Williams Renault",
+		"point": 164,
+		"year": 1992
+	},
+	{
+		"id": "6e054de8-f51e-475c-a600-f1cbfef1fcd6",
+		"position": 2,
+		"name": "McLaren Honda",
+		"point": 99,
+		"year": 1992
+	},
+	{
+		"id": "f35bed0d-8e81-4564-9de1-bfa7f9038f9f",
+		"position": 3,
+		"name": "Benetton Ford",
+		"point": 91,
+		"year": 1992
+	},
+	{
+		"id": "5811b112-573e-452d-b646-568861b30836",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 21,
+		"year": 1992
+	},
+	{
+		"id": "382e941d-b172-4c52-b298-bf50a03e9619",
+		"position": 5,
+		"name": "Lotus Ford",
+		"point": 13,
+		"year": 1992
+	},
+	{
+		"id": "e4df1f1e-3d99-415e-98e1-053f6bc3ef03",
+		"position": 6,
+		"name": "Tyrrell Ilmor",
+		"point": 8,
+		"year": 1992
+	},
+	{
+		"id": "925827c5-b36e-46cf-80be-253986a305dc",
+		"position": 7,
+		"name": "Footwork Mugen Honda",
+		"point": 6,
+		"year": 1992
+	},
+	{
+		"id": "a950fae6-ad52-4088-8b21-cd8801ae8c55",
+		"position": 8,
+		"name": "Ligier Renault",
+		"point": 6,
+		"year": 1992
+	},
+	{
+		"id": "498e8728-9d4f-4ef2-bcd4-522e37d16e98",
+		"position": 9,
+		"name": "March Ilmor",
+		"point": 3,
+		"year": 1992
+	},
+	{
+		"id": "2c97feff-5ed2-41ef-aaa0-a0bc59d40bc9",
+		"position": 10,
+		"name": "Dallara Ferrari",
+		"point": 2,
+		"year": 1992
+	},
+	{
+		"id": "15df9403-ec6b-4f16-b15e-bdf39a1d518f",
+		"position": 11,
+		"name": "Jordan Yamaha",
+		"point": 1,
+		"year": 1992
+	},
+	{
+		"id": "d5011d91-4637-4c07-9439-9f7e4ca93fee",
+		"position": 12,
+		"name": "Minardi Lamborghini",
+		"point": 1,
+		"year": 1992
+	},
+	{
+		"id": "8813cce5-15c1-4a29-8c5d-50c6870db149",
+		"position": 13,
+		"name": "Venturi Lamborghini",
+		"point": 1,
+		"year": 1992
+	},
+	{
+		"id": "e46034dc-ae17-4d34-8183-07901995d711",
+		"position": 1,
+		"name": "Williams Renault",
+		"point": 168,
+		"year": 1993
+	},
+	{
+		"id": "57cb5639-32fb-4ef5-ab3e-cbf7aaea056e",
+		"position": 2,
+		"name": "McLaren Ford",
+		"point": 84,
+		"year": 1993
+	},
+	{
+		"id": "3f6cc864-c8fd-4cdd-9f56-9b5f50795037",
+		"position": 3,
+		"name": "Benetton Ford",
+		"point": 72,
+		"year": 1993
+	},
+	{
+		"id": "d31e9ab3-a939-4101-8a03-fcc4475c512a",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 28,
+		"year": 1993
+	},
+	{
+		"id": "78ab0ccd-e69f-4e76-b722-acdfabd1c0df",
+		"position": 5,
+		"name": "Ligier Renault",
+		"point": 23,
+		"year": 1993
+	},
+	{
+		"id": "bebd2a21-96d5-4cf1-be1a-ca72747d22da",
+		"position": 6,
+		"name": "Lotus Ford",
+		"point": 12,
+		"year": 1993
+	},
+	{
+		"id": "92876adb-4a23-4017-985d-32b1eb147d24",
+		"position": 7,
+		"name": "Sauber",
+		"point": 12,
+		"year": 1993
+	},
+	{
+		"id": "8811e40d-112a-4129-8593-4bfa1cff5559",
+		"position": 8,
+		"name": "Minardi Ford",
+		"point": 7,
+		"year": 1993
+	},
+	{
+		"id": "23e87ef9-cbef-4ed8-98a8-21b8273ae924",
+		"position": 9,
+		"name": "Footwork Mugen Honda",
+		"point": 4,
+		"year": 1993
+	},
+	{
+		"id": "2fa9b0a8-d995-4acb-ad64-81ee198fb233",
+		"position": 10,
+		"name": "Larrousse Lamborghini",
+		"point": 3,
+		"year": 1993
+	},
+	{
+		"id": "f64efb68-7193-4f3c-a52a-81a8a436a564",
+		"position": 11,
+		"name": "Jordan Hart",
+		"point": 3,
+		"year": 1993
+	},
+	{
+		"id": "814dc980-36f1-4d00-8f0a-4a198848b4e1",
+		"position": 1,
+		"name": "Williams Renault",
+		"point": 118,
+		"year": 1994
+	},
+	{
+		"id": "fa757832-9886-43d6-9c68-64bc24160c24",
+		"position": 2,
+		"name": "Benetton Ford",
+		"point": 103,
+		"year": 1994
+	},
+	{
+		"id": "ccaf6413-8456-4d47-8f46-86d68b7581e4",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 71,
+		"year": 1994
+	},
+	{
+		"id": "01a2ba74-07d2-4193-b0eb-b1aa1d2153dd",
+		"position": 4,
+		"name": "McLaren Peugeot",
+		"point": 42,
+		"year": 1994
+	},
+	{
+		"id": "1379095f-2d18-4c9c-aae1-7f734914bd12",
+		"position": 5,
+		"name": "Jordan Hart",
+		"point": 28,
+		"year": 1994
+	},
+	{
+		"id": "00af223f-0dbd-4e4b-ac27-c6872254b5b1",
+		"position": 6,
+		"name": "Ligier Renault",
+		"point": 13,
+		"year": 1994
+	},
+	{
+		"id": "b6c0384d-4ca1-4f9f-8c05-e2e56a2d4c2c",
+		"position": 7,
+		"name": "Tyrrell Yamaha",
+		"point": 13,
+		"year": 1994
+	},
+	{
+		"id": "56f229ba-25a7-416f-98c4-4ef2300fae0d",
+		"position": 8,
+		"name": "Sauber Mercedes",
+		"point": 12,
+		"year": 1994
+	},
+	{
+		"id": "a9d5ddfa-205d-4046-8edf-8b4b61f7ce46",
+		"position": 9,
+		"name": "Footwork Ford",
+		"point": 9,
+		"year": 1994
+	},
+	{
+		"id": "568197df-489d-4356-966a-85f2acdf55d2",
+		"position": 10,
+		"name": "Minardi Ford",
+		"point": 5,
+		"year": 1994
+	},
+	{
+		"id": "d7b47d28-288d-4f18-8855-873a323a303a",
+		"position": 11,
+		"name": "Larrousse Ford",
+		"point": 2,
+		"year": 1994
+	},
+	{
+		"id": "a31aafd0-2862-4406-a8b0-7130c7250996",
+		"position": 1,
+		"name": "Benetton Renault",
+		"point": 137,
+		"year": 1995
+	},
+	{
+		"id": "ce09d601-107c-4da7-b3b2-21e8e28b47df",
+		"position": 2,
+		"name": "Williams Renault",
+		"point": 112,
+		"year": 1995
+	},
+	{
+		"id": "a0b9608b-cfed-41bd-bc97-07f6fdb32d28",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 73,
+		"year": 1995
+	},
+	{
+		"id": "97e14b43-9891-434e-a40b-53fe91aa5b5d",
+		"position": 4,
+		"name": "McLaren Mercedes",
+		"point": 30,
+		"year": 1995
+	},
+	{
+		"id": "9f0ebda2-a89f-4432-bca3-5577c2eb217e",
+		"position": 5,
+		"name": "Ligier Mugen Honda",
+		"point": 24,
+		"year": 1995
+	},
+	{
+		"id": "d8f9c61c-5838-4bd8-bebd-ff22559f0bc4",
+		"position": 6,
+		"name": "Jordan Peugeot",
+		"point": 21,
+		"year": 1995
+	},
+	{
+		"id": "a398345c-b66a-42d5-9d14-e87ce3c96d46",
+		"position": 7,
+		"name": "Sauber Ford",
+		"point": 18,
+		"year": 1995
+	},
+	{
+		"id": "0be144d6-23fb-400e-a1a1-fa5e05b4e07f",
+		"position": 8,
+		"name": "Footwork Hart",
+		"point": 5,
+		"year": 1995
+	},
+	{
+		"id": "44f02e86-0f13-4429-9ea2-af854600e0fe",
+		"position": 9,
+		"name": "Tyrrell Yamaha",
+		"point": 5,
+		"year": 1995
+	},
+	{
+		"id": "53086135-eca0-44d5-ab1b-e53524ef04ab",
+		"position": 10,
+		"name": "Minardi Ford",
+		"point": 1,
+		"year": 1995
+	},
+	{
+		"id": "fa5a2cfe-320b-46fe-bde8-e4a89a949627",
+		"position": 1,
+		"name": "Williams Renault",
+		"point": 175,
+		"year": 1996
+	},
+	{
+		"id": "da6b5f89-64bb-4387-b38c-38d737138a34",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 70,
+		"year": 1996
+	},
+	{
+		"id": "658468fa-e544-415e-a1d5-ce0e3329a1d6",
+		"position": 3,
+		"name": "Benetton Renault",
+		"point": 68,
+		"year": 1996
+	},
+	{
+		"id": "50684619-c775-43dc-abe5-b35ff0282488",
+		"position": 4,
+		"name": "McLaren Mercedes",
+		"point": 49,
+		"year": 1996
+	},
+	{
+		"id": "c5d5ce64-2b71-4692-9917-941ffc4177c6",
+		"position": 5,
+		"name": "Jordan Peugeot",
+		"point": 22,
+		"year": 1996
+	},
+	{
+		"id": "79cf7893-20d0-408d-94ef-10bd310e62c6",
+		"position": 6,
+		"name": "Ligier Mugen Honda",
+		"point": 15,
+		"year": 1996
+	},
+	{
+		"id": "2930155f-e87a-4370-ae1f-a78cc5d4e3ad",
+		"position": 7,
+		"name": "Sauber Ford",
+		"point": 11,
+		"year": 1996
+	},
+	{
+		"id": "b0745bdc-f113-4a17-a83f-d9bb508d0451",
+		"position": 8,
+		"name": "Tyrrell Yamaha",
+		"point": 5,
+		"year": 1996
+	},
+	{
+		"id": "6333c334-8c6b-4e2a-8393-a1f5e42bbcd8",
+		"position": 9,
+		"name": "Footwork Hart",
+		"point": 1,
+		"year": 1996
+	},
+	{
+		"id": "56ddc991-f8a4-4130-9ae3-750b17d3f2a9",
+		"position": 1,
+		"name": "Williams Renault",
+		"point": 123,
+		"year": 1997
+	},
+	{
+		"id": "2ac2456b-faf2-4f5e-bfc8-19cf97134589",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 102,
+		"year": 1997
+	},
+	{
+		"id": "f59bd2fe-90cf-41c2-9719-211e8dfe3a09",
+		"position": 3,
+		"name": "Benetton Renault",
+		"point": 67,
+		"year": 1997
+	},
+	{
+		"id": "dd2ec8d6-3ad0-4f61-9c34-40e63ecc1796",
+		"position": 4,
+		"name": "McLaren Mercedes",
+		"point": 63,
+		"year": 1997
+	},
+	{
+		"id": "c85a2c6e-a0e8-4dbb-8a2c-f4bd950fc14c",
+		"position": 5,
+		"name": "Jordan Peugeot",
+		"point": 33,
+		"year": 1997
+	},
+	{
+		"id": "fafba33d-b063-40bf-bf67-10aaa0e468c4",
+		"position": 6,
+		"name": "Prost Mugen Honda",
+		"point": 21,
+		"year": 1997
+	},
+	{
+		"id": "738c058c-2ca6-40ba-b727-1efea54db1d5",
+		"position": 7,
+		"name": "Sauber Petronas",
+		"point": 16,
+		"year": 1997
+	},
+	{
+		"id": "bc856dd0-d3cb-4b1b-b981-45509539ff3f",
+		"position": 8,
+		"name": "Arrows Yamaha",
+		"point": 9,
+		"year": 1997
+	},
+	{
+		"id": "3c661777-c524-4317-8a9f-ea2a2ea59aaa",
+		"position": 9,
+		"name": "Stewart Ford",
+		"point": 6,
+		"year": 1997
+	},
+	{
+		"id": "bb3f6375-1d6b-4669-a7a3-05e0622b08a7",
+		"position": 10,
+		"name": "Tyrrell Ford",
+		"point": 2,
+		"year": 1997
+	},
+	{
+		"id": "4d2a109d-43b5-42b7-bd9d-dcc50a96d52d",
+		"position": 1,
+		"name": "McLaren Mercedes",
+		"point": 156,
+		"year": 1998
+	},
+	{
+		"id": "29be5886-e6c6-427a-941a-3dbf13d6446e",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 133,
+		"year": 1998
+	},
+	{
+		"id": "2d6432fe-2033-430b-8ad6-2d8921942bd8",
+		"position": 3,
+		"name": "Williams Mecachrome",
+		"point": 38,
+		"year": 1998
+	},
+	{
+		"id": "3786a52e-89da-406f-b3d0-728ae406530e",
+		"position": 4,
+		"name": "Jordan Mugen Honda",
+		"point": 34,
+		"year": 1998
+	},
+	{
+		"id": "bc025a9c-6edb-4301-b7f1-b92b5400fc01",
+		"position": 5,
+		"name": "Benetton Playlife",
+		"point": 33,
+		"year": 1998
+	},
+	{
+		"id": "66e642cc-56b6-49c5-871b-8aef535895a2",
+		"position": 6,
+		"name": "Sauber Petronas",
+		"point": 10,
+		"year": 1998
+	},
+	{
+		"id": "6168f7d3-7592-4314-919a-4becf54ff7e3",
+		"position": 7,
+		"name": "Arrows",
+		"point": 6,
+		"year": 1998
+	},
+	{
+		"id": "bead64a0-1634-4d1a-b81d-59a1e20ab4e2",
+		"position": 8,
+		"name": "Stewart Ford",
+		"point": 5,
+		"year": 1998
+	},
+	{
+		"id": "6944f8bc-7780-46eb-acdc-52acf2b31180",
+		"position": 9,
+		"name": "Prost Peugeot",
+		"point": 1,
+		"year": 1998
+	},
+	{
+		"id": "446a3677-df05-4921-98bb-7cc6ec20e9ef",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 128,
+		"year": 1999
+	},
+	{
+		"id": "a96118af-fe36-4d0d-832e-5304fce4cae2",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 124,
+		"year": 1999
+	},
+	{
+		"id": "d563ff52-3d5a-4245-b8fa-44b956dd5f1a",
+		"position": 3,
+		"name": "Jordan Mugen Honda",
+		"point": 61,
+		"year": 1999
+	},
+	{
+		"id": "efe28dc9-8782-478f-a9d4-c87177951c1b",
+		"position": 4,
+		"name": "Stewart Ford",
+		"point": 36,
+		"year": 1999
+	},
+	{
+		"id": "fa7956cd-1de6-40ad-b545-39f489edc303",
+		"position": 5,
+		"name": "Williams Supertec",
+		"point": 35,
+		"year": 1999
+	},
+	{
+		"id": "51dcaa10-4753-4364-af99-73db02678f2c",
+		"position": 6,
+		"name": "Benetton Playlife",
+		"point": 16,
+		"year": 1999
+	},
+	{
+		"id": "9418eb44-347e-4261-84de-ee32bdfb71f1",
+		"position": 7,
+		"name": "Prost Peugeot",
+		"point": 9,
+		"year": 1999
+	},
+	{
+		"id": "a0fbf543-2970-43f1-8a9b-18290a0a3b2e",
+		"position": 8,
+		"name": "Sauber Petronas",
+		"point": 5,
+		"year": 1999
+	},
+	{
+		"id": "cbb7a16b-64fd-47d3-8463-ab5c38f17037",
+		"position": 9,
+		"name": "Minardi Ford",
+		"point": 1,
+		"year": 1999
+	},
+	{
+		"id": "16056fa8-2e2f-4191-9a50-18a48816e548",
+		"position": 10,
+		"name": "Arrows",
+		"point": 1,
+		"year": 1999
+	},
+	{
+		"id": "f36a38a2-1045-47e9-ade4-69abbfe57dff",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 170,
+		"year": 2000
+	},
+	{
+		"id": "e7a2462d-c2bf-4351-985a-9d8e07f65371",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 152,
+		"year": 2000
+	},
+	{
+		"id": "1a87f2e1-64b7-499f-9819-c7feffd9eaa8",
+		"position": 3,
+		"name": "Williams BMW",
+		"point": 36,
+		"year": 2000
+	},
+	{
+		"id": "428f6d7e-05bf-42f6-9c03-2e0a23641f8b",
+		"position": 4,
+		"name": "Benetton Playlife",
+		"point": 20,
+		"year": 2000
+	},
+	{
+		"id": "f3b2880a-f433-4d78-a18f-ba0756aea1e0",
+		"position": 5,
+		"name": "BAR Honda",
+		"point": 20,
+		"year": 2000
+	},
+	{
+		"id": "7a2f45ef-22c5-412a-8d4f-911b1aa04308",
+		"position": 6,
+		"name": "Jordan Mugen Honda",
+		"point": 17,
+		"year": 2000
+	},
+	{
+		"id": "dbbd5b1c-c839-49ef-8eef-a1fd70a5a5a2",
+		"position": 7,
+		"name": "Arrows Supertec",
+		"point": 7,
+		"year": 2000
+	},
+	{
+		"id": "71768d9e-1142-4c7b-9051-7b418a21a60e",
+		"position": 8,
+		"name": "Sauber Petronas",
+		"point": 6,
+		"year": 2000
+	},
+	{
+		"id": "89f93683-e24e-4a82-9edb-d7588decd110",
+		"position": 9,
+		"name": "Jaguar Cosworth",
+		"point": 4,
+		"year": 2000
+	},
+	{
+		"id": "2c237dd7-6f65-4919-87d3-76112096847a",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 179,
+		"year": 2001
+	},
+	{
+		"id": "1717f3f1-78ea-4650-a713-b32b4f8a68af",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 102,
+		"year": 2001
+	},
+	{
+		"id": "b7665d18-58c8-4f39-9803-f1c9f6fc3c1c",
+		"position": 3,
+		"name": "Williams BMW",
+		"point": 80,
+		"year": 2001
+	},
+	{
+		"id": "479394a6-417a-4fcb-9ec7-d8590d240d44",
+		"position": 4,
+		"name": "Sauber Petronas",
+		"point": 21,
+		"year": 2001
+	},
+	{
+		"id": "1a0c4221-e64b-46dd-907f-cae7ebb0bca5",
+		"position": 5,
+		"name": "Jordan Honda",
+		"point": 19,
+		"year": 2001
+	},
+	{
+		"id": "b64ee34d-93bd-4765-b035-bda66e109e6a",
+		"position": 6,
+		"name": "BAR Honda",
+		"point": 17,
+		"year": 2001
+	},
+	{
+		"id": "40928328-aa13-4dd5-bccd-3518c5532476",
+		"position": 7,
+		"name": "Benetton Renault",
+		"point": 10,
+		"year": 2001
+	},
+	{
+		"id": "13d5e59f-ce08-4129-99e9-749602f4eba2",
+		"position": 8,
+		"name": "Jaguar Cosworth",
+		"point": 9,
+		"year": 2001
+	},
+	{
+		"id": "683234b3-e303-48c1-a542-98cafc049e53",
+		"position": 9,
+		"name": "Prost Acer",
+		"point": 4,
+		"year": 2001
+	},
+	{
+		"id": "a2b5acfc-38c0-4c60-8346-f611970bf597",
+		"position": 10,
+		"name": "Arrows Asiatech",
+		"point": 1,
+		"year": 2001
+	},
+	{
+		"id": "41c7331d-b3b7-4bf6-87c4-ce10f3af6ef4",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 221,
+		"year": 2002
+	},
+	{
+		"id": "693cbcfa-0cda-463d-ae7a-6d5a82971bbb",
+		"position": 2,
+		"name": "Williams BMW",
+		"point": 92,
+		"year": 2002
+	},
+	{
+		"id": "442ae921-dced-407b-88b0-f1465c04ca4c",
+		"position": 3,
+		"name": "McLaren Mercedes",
+		"point": 65,
+		"year": 2002
+	},
+	{
+		"id": "e0750523-6c2e-4dd6-934a-3b9a2cd82088",
+		"position": 4,
+		"name": "Renault",
+		"point": 23,
+		"year": 2002
+	},
+	{
+		"id": "78fbca08-7ecb-4694-b227-dbba750e5b84",
+		"position": 5,
+		"name": "Sauber Petronas",
+		"point": 11,
+		"year": 2002
+	},
+	{
+		"id": "428b763d-1e0c-45f6-aa83-0d358b8eabac",
+		"position": 6,
+		"name": "Jordan Honda",
+		"point": 9,
+		"year": 2002
+	},
+	{
+		"id": "de08c1a5-9ed7-4399-965f-ae230a1ee1e7",
+		"position": 7,
+		"name": "Jaguar Cosworth",
+		"point": 8,
+		"year": 2002
+	},
+	{
+		"id": "1aefd59e-d1cc-417a-9f30-1865a8ab7003",
+		"position": 8,
+		"name": "BAR Honda",
+		"point": 7,
+		"year": 2002
+	},
+	{
+		"id": "7907c309-443f-4a0e-9707-32c069d9268c",
+		"position": 9,
+		"name": "Minardi Asiatech",
+		"point": 2,
+		"year": 2002
+	},
+	{
+		"id": "a058c715-5aaa-4449-8ee5-0f8f6b7a7812",
+		"position": 10,
+		"name": "Toyota",
+		"point": 2,
+		"year": 2002
+	},
+	{
+		"id": "0d8d7a8a-b10f-46ce-a09d-6c6f0b994014",
+		"position": 11,
+		"name": "Arrows Cosworth",
+		"point": 2,
+		"year": 2002
+	},
+	{
+		"id": "2a2a2d9a-8963-49f0-b60e-244b0f82fd64",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 158,
+		"year": 2003
+	},
+	{
+		"id": "a78d7ca1-8b7b-4d31-af17-7848b6b83cea",
+		"position": 2,
+		"name": "Williams BMW",
+		"point": 144,
+		"year": 2003
+	},
+	{
+		"id": "d0d4e21c-bea7-4062-9cfa-4249c24347d7",
+		"position": 3,
+		"name": "McLaren Mercedes",
+		"point": 142,
+		"year": 2003
+	},
+	{
+		"id": "6b770a37-6080-4213-bde9-fc5ee78b0180",
+		"position": 4,
+		"name": "Renault",
+		"point": 88,
+		"year": 2003
+	},
+	{
+		"id": "a0c746ec-cee4-4a18-8c04-ddad09f5a917",
+		"position": 5,
+		"name": "BAR Honda",
+		"point": 26,
+		"year": 2003
+	},
+	{
+		"id": "590626e9-67ff-460d-964c-69a0dc644bc6",
+		"position": 6,
+		"name": "Sauber Petronas",
+		"point": 19,
+		"year": 2003
+	},
+	{
+		"id": "b910e727-4ce3-43ac-abdb-75d5698120ca",
+		"position": 7,
+		"name": "Jaguar Cosworth",
+		"point": 18,
+		"year": 2003
+	},
+	{
+		"id": "8f9903ca-8e89-4f2f-87fa-e9b6742a485e",
+		"position": 8,
+		"name": "Toyota",
+		"point": 16,
+		"year": 2003
+	},
+	{
+		"id": "326b56da-ad92-4269-9a5c-0bd05e28d0fb",
+		"position": 9,
+		"name": "Jordan Ford",
+		"point": 13,
+		"year": 2003
+	},
+	{
+		"id": "c278cc5f-24cf-45fa-b623-1236d2de5b8b",
+		"position": 10,
+		"name": "Minardi Cosworth",
+		"point": 0,
+		"year": 2003
+	},
+	{
+		"id": "23578047-3329-428d-9d90-24787c6e6a3f",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 262,
+		"year": 2004
+	},
+	{
+		"id": "efc35281-e844-45c7-8119-209fae6e6264",
+		"position": 2,
+		"name": "BAR Honda",
+		"point": 119,
+		"year": 2004
+	},
+	{
+		"id": "5bed83aa-9268-48f7-a827-cd54cd82891d",
+		"position": 3,
+		"name": "Renault",
+		"point": 105,
+		"year": 2004
+	},
+	{
+		"id": "c81784c2-507e-4b6e-97c3-dea925975857",
+		"position": 4,
+		"name": "Williams BMW",
+		"point": 88,
+		"year": 2004
+	},
+	{
+		"id": "7af73140-f684-4d89-9fac-0278e3ffdb8f",
+		"position": 5,
+		"name": "McLaren Mercedes",
+		"point": 69,
+		"year": 2004
+	},
+	{
+		"id": "2f6004c8-3e6f-4480-83a3-46e8f2ea350e",
+		"position": 6,
+		"name": "Sauber Petronas",
+		"point": 34,
+		"year": 2004
+	},
+	{
+		"id": "3c3f6a7d-bd1c-4e4f-b25c-2dfe8db2da85",
+		"position": 7,
+		"name": "Jaguar Cosworth",
+		"point": 10,
+		"year": 2004
+	},
+	{
+		"id": "2c97ab17-867f-4a07-a2bd-69c8043bc362",
+		"position": 8,
+		"name": "Toyota",
+		"point": 9,
+		"year": 2004
+	},
+	{
+		"id": "6d86f39c-69eb-4667-8f7e-9903aeed9bbf",
+		"position": 9,
+		"name": "Jordan Ford",
+		"point": 5,
+		"year": 2004
+	},
+	{
+		"id": "5bb6879b-e4a0-46ea-ae24-2651cd9ffce1",
+		"position": 10,
+		"name": "Minardi Cosworth",
+		"point": 1,
+		"year": 2004
+	},
+	{
+		"id": "d3cebd7a-e6d0-4ff5-ac52-131c0e60012d",
+		"position": 1,
+		"name": "Renault",
+		"point": 191,
+		"year": 2005
+	},
+	{
+		"id": "f5c38dda-74ca-4853-b632-6e5d07809ae1",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 182,
+		"year": 2005
+	},
+	{
+		"id": "e6187d6a-759e-4a27-bed8-f7f2b3f48960",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 100,
+		"year": 2005
+	},
+	{
+		"id": "a6d72f32-c12f-48e9-85b4-6d3380bca692",
+		"position": 4,
+		"name": "Toyota",
+		"point": 88,
+		"year": 2005
+	},
+	{
+		"id": "d8fd96fa-5b0e-41d6-a0c8-957e5709d598",
+		"position": 5,
+		"name": "Williams BMW",
+		"point": 66,
+		"year": 2005
+	},
+	{
+		"id": "24b5afa1-df48-4322-bc49-dd51887c3893",
+		"position": 6,
+		"name": "BAR Honda",
+		"point": 38,
+		"year": 2005
+	},
+	{
+		"id": "b86a4b16-45a9-40e9-9c20-df9e7cfcf601",
+		"position": 7,
+		"name": "RBR Cosworth",
+		"point": 34,
+		"year": 2005
+	},
+	{
+		"id": "575221fd-cfae-4f9a-b2f0-8b9e198f4afa",
+		"position": 8,
+		"name": "Sauber Petronas",
+		"point": 20,
+		"year": 2005
+	},
+	{
+		"id": "f4e552eb-8e80-4bee-be69-507631617c32",
+		"position": 9,
+		"name": "Jordan Toyota",
+		"point": 12,
+		"year": 2005
+	},
+	{
+		"id": "7d8ec020-690c-4f87-b26b-4aede56ce669",
+		"position": 10,
+		"name": "Minardi Cosworth",
+		"point": 7,
+		"year": 2005
+	},
+	{
+		"id": "60cd807a-a256-45c8-a21e-6ba6ab77a9b0",
+		"position": 1,
+		"name": "Renault",
+		"point": 206,
+		"year": 2006
+	},
+	{
+		"id": "0e4e8057-1d64-4c19-93e3-ff6cacb27fdd",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 201,
+		"year": 2006
+	},
+	{
+		"id": "acdfb0d0-7b96-4907-83ba-3b968dfe48b9",
+		"position": 3,
+		"name": "McLaren Mercedes",
+		"point": 110,
+		"year": 2006
+	},
+	{
+		"id": "2633845a-6515-403e-9d3e-108ffd3b391b",
+		"position": 4,
+		"name": "Honda",
+		"point": 86,
+		"year": 2006
+	},
+	{
+		"id": "8fb582b3-378f-4d2f-9b9f-de347b09f85d",
+		"position": 5,
+		"name": "Sauber BMW",
+		"point": 36,
+		"year": 2006
+	},
+	{
+		"id": "7375fb1f-8c1b-4b92-b7cd-af69bdc68b35",
+		"position": 6,
+		"name": "Toyota",
+		"point": 35,
+		"year": 2006
+	},
+	{
+		"id": "46fdde88-4a65-4790-bb07-28c780d32281",
+		"position": 7,
+		"name": "RBR Ferrari",
+		"point": 16,
+		"year": 2006
+	},
+	{
+		"id": "c24f2b38-ad09-4bf9-b098-9daf1dd34137",
+		"position": 8,
+		"name": "Williams Cosworth",
+		"point": 11,
+		"year": 2006
+	},
+	{
+		"id": "a3091e9e-a218-4fbb-8045-8f9fc4c08e7c",
+		"position": 9,
+		"name": "STR Cosworth",
+		"point": 1,
+		"year": 2006
+	},
+	{
+		"id": "c16b950e-e713-4de4-b494-e50dc131069f",
+		"position": 10,
+		"name": "MF1 Toyota",
+		"point": 0,
+		"year": 2006
+	},
+	{
+		"id": "f1e56149-03aa-4c07-83b6-99fbf93a0df3",
+		"position": 11,
+		"name": "Super Aguri Honda",
+		"point": 0,
+		"year": 2006
+	},
+	{
+		"id": "080a5e92-0e21-4209-9c22-d4589b0d2562",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 204,
+		"year": 2007
+	},
+	{
+		"id": "ce8a82e7-0ab2-4072-a106-59b2eb8406b8",
+		"position": 2,
+		"name": "Sauber BMW",
+		"point": 101,
+		"year": 2007
+	},
+	{
+		"id": "4e585bc2-d0c4-476b-aeb3-aef3e3db1f0d",
+		"position": 3,
+		"name": "Renault",
+		"point": 51,
+		"year": 2007
+	},
+	{
+		"id": "5ed4db1d-d8c5-4b08-96f0-9224e244ac14",
+		"position": 4,
+		"name": "Williams Toyota",
+		"point": 33,
+		"year": 2007
+	},
+	{
+		"id": "7b4bcb6c-d9d1-41cc-9c0d-3cc1a734b6f9",
+		"position": 5,
+		"name": "Red Bull Renault",
+		"point": 24,
+		"year": 2007
+	},
+	{
+		"id": "15300605-4178-4f60-bad7-f6d9fd92ecdd",
+		"position": 6,
+		"name": "Toyota",
+		"point": 13,
+		"year": 2007
+	},
+	{
+		"id": "e69c615d-e012-4808-9fa6-829f3239d368",
+		"position": 7,
+		"name": "STR Ferrari",
+		"point": 8,
+		"year": 2007
+	},
+	{
+		"id": "df97d044-fc79-40f3-a380-57239b9c002a",
+		"position": 8,
+		"name": "Honda",
+		"point": 6,
+		"year": 2007
+	},
+	{
+		"id": "c4954066-8054-41a5-a104-75096cd842ca",
+		"position": 9,
+		"name": "Super Aguri Honda",
+		"point": 4,
+		"year": 2007
+	},
+	{
+		"id": "8402343a-d75e-4a68-8ff2-b77aba7556a7",
+		"position": 10,
+		"name": "Spyker Ferrari",
+		"point": 1,
+		"year": 2007
+	},
+	{
+		"id": "fc928ed8-bb2f-45db-9792-e9820b372d0a",
+		"position": null,
+		"name": "McLaren Mercedes",
+		"point": 0,
+		"year": 2007
+	},
+	{
+		"id": "b283d268-0c72-4357-90e9-f3a7611a3ef3",
+		"position": 1,
+		"name": "Ferrari",
+		"point": 172,
+		"year": 2008
+	},
+	{
+		"id": "234f8b24-a0c5-4357-a272-caf5af6d43b1",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 151,
+		"year": 2008
+	},
+	{
+		"id": "10910ae0-c29a-49f6-bb1b-6c50116c2c35",
+		"position": 3,
+		"name": "Sauber BMW",
+		"point": 135,
+		"year": 2008
+	},
+	{
+		"id": "15b63454-7c57-40e2-9363-a87e06408677",
+		"position": 4,
+		"name": "Renault",
+		"point": 80,
+		"year": 2008
+	},
+	{
+		"id": "a78a35a7-0464-49ed-921d-ecbed6db1fa8",
+		"position": 5,
+		"name": "Toyota",
+		"point": 56,
+		"year": 2008
+	},
+	{
+		"id": "585b883b-8b4e-48f4-9399-3f50cec7c3cf",
+		"position": 6,
+		"name": "STR Ferrari",
+		"point": 39,
+		"year": 2008
+	},
+	{
+		"id": "e76bb1fe-73a8-45bb-8fad-d417bb6dd2b8",
+		"position": 7,
+		"name": "Red Bull Renault",
+		"point": 29,
+		"year": 2008
+	},
+	{
+		"id": "3acb33cc-add0-4aee-b415-2cf214717470",
+		"position": 8,
+		"name": "Williams Toyota",
+		"point": 26,
+		"year": 2008
+	},
+	{
+		"id": "624da038-e3c6-4aef-a46e-43ac44b7344a",
+		"position": 9,
+		"name": "Honda",
+		"point": 14,
+		"year": 2008
+	},
+	{
+		"id": "b0014253-fb8e-4ce9-b759-97e3f6801eb0",
+		"position": 10,
+		"name": "Force India Ferrari",
+		"point": 0,
+		"year": 2008
+	},
+	{
+		"id": "9eadf70f-3225-49ee-baf4-2b2703a75d8c",
+		"position": 11,
+		"name": "Super Aguri Honda",
+		"point": 0,
+		"year": 2008
+	},
+	{
+		"id": "1d4c6d66-1fda-4b7c-87ad-cce2f048ffc7",
+		"position": 1,
+		"name": "Brawn Mercedes",
+		"point": 172,
+		"year": 2009
+	},
+	{
+		"id": "5716c624-1bce-4dc9-9df5-287c18b12bce",
+		"position": 2,
+		"name": "RBR Renault",
+		"point": 153,
+		"year": 2009
+	},
+	{
+		"id": "ef3b69e0-239a-46ea-a7be-9d83e9476fc0",
+		"position": 3,
+		"name": "McLaren Mercedes",
+		"point": 71,
+		"year": 2009
+	},
+	{
+		"id": "5468e943-aad8-45a5-b372-737baef06e90",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 70,
+		"year": 2009
+	},
+	{
+		"id": "d1f66aea-0691-4dd0-b3d8-2ef8a54e63c7",
+		"position": 5,
+		"name": "Toyota",
+		"point": 59,
+		"year": 2009
+	},
+	{
+		"id": "60bc477f-20ed-48be-9bd4-881cda37b495",
+		"position": 6,
+		"name": "Sauber BMW",
+		"point": 36,
+		"year": 2009
+	},
+	{
+		"id": "54cd077b-e20c-46af-aa98-10c936080473",
+		"position": 7,
+		"name": "Williams Toyota",
+		"point": 34,
+		"year": 2009
+	},
+	{
+		"id": "e9d6e129-7158-47b7-872f-7709976169d5",
+		"position": 8,
+		"name": "Renault",
+		"point": 26,
+		"year": 2009
+	},
+	{
+		"id": "ddf261f8-124c-4694-905c-d3f779573c35",
+		"position": 9,
+		"name": "Force India Mercedes",
+		"point": 13,
+		"year": 2009
+	},
+	{
+		"id": "41ac6e3f-89bf-4b57-a4cb-565a7ed73f3d",
+		"position": 10,
+		"name": "STR Ferrari",
+		"point": 8,
+		"year": 2009
+	},
+	{
+		"id": "943c78fe-bb56-4ce8-85e7-2166ac9c1ee7",
+		"position": 1,
+		"name": "RBR Renault",
+		"point": 498,
+		"year": 2010
+	},
+	{
+		"id": "d474557c-3d82-40e5-a920-a031df18d124",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 454,
+		"year": 2010
+	},
+	{
+		"id": "ea964ed9-b4f6-451b-907a-02c1790bc3e0",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 396,
+		"year": 2010
+	},
+	{
+		"id": "e9cda204-5808-4fee-bb18-78cebcbc71da",
+		"position": 4,
+		"name": "Mercedes",
+		"point": 214,
+		"year": 2010
+	},
+	{
+		"id": "b87aa884-e8c8-4a0c-b25f-6adf5a5c5561",
+		"position": 5,
+		"name": "Renault",
+		"point": 163,
+		"year": 2010
+	},
+	{
+		"id": "c9c4fe6e-aa26-4199-a49b-ec83a933655c",
+		"position": 6,
+		"name": "Williams Cosworth",
+		"point": 69,
+		"year": 2010
+	},
+	{
+		"id": "a47a686e-4ecd-4d95-ae69-1c2c761af72f",
+		"position": 7,
+		"name": "Force India Mercedes",
+		"point": 68,
+		"year": 2010
+	},
+	{
+		"id": "fc72b415-cccd-4c99-b66d-eb344c48df24",
+		"position": 8,
+		"name": "Sauber Ferrari",
+		"point": 44,
+		"year": 2010
+	},
+	{
+		"id": "1eee8d77-74d1-48c6-9b80-b83a493e7ea1",
+		"position": 9,
+		"name": "STR Ferrari",
+		"point": 13,
+		"year": 2010
+	},
+	{
+		"id": "f6156f33-9904-475f-87a4-35ed80a5ff59",
+		"position": 10,
+		"name": "Lotus Cosworth",
+		"point": 0,
+		"year": 2010
+	},
+	{
+		"id": "47324d19-630a-42eb-89b3-d01685fb022b",
+		"position": 11,
+		"name": "HRT Cosworth",
+		"point": 0,
+		"year": 2010
+	},
+	{
+		"id": "fa504e04-7545-41f1-b27e-05779bb4ecf2",
+		"position": 12,
+		"name": "Virgin Cosworth",
+		"point": 0,
+		"year": 2010
+	},
+	{
+		"id": "bafbcae0-545e-4e86-8895-4a17c81e0e4b",
+		"position": 1,
+		"name": "Red Bull Racing Renault",
+		"point": 650,
+		"year": 2011
+	},
+	{
+		"id": "511176f2-e340-48ff-8586-3493a556e6ce",
+		"position": 2,
+		"name": "McLaren Mercedes",
+		"point": 497,
+		"year": 2011
+	},
+	{
+		"id": "748bc767-869e-4510-9d91-524c5552a054",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 375,
+		"year": 2011
+	},
+	{
+		"id": "743b277c-fa18-4420-aa77-1a776cca84ac",
+		"position": 4,
+		"name": "Mercedes",
+		"point": 165,
+		"year": 2011
+	},
+	{
+		"id": "172be222-1f01-4340-b01f-642405eec8a6",
+		"position": 5,
+		"name": "Renault",
+		"point": 73,
+		"year": 2011
+	},
+	{
+		"id": "d28b108e-4f9f-4b24-80aa-bee32f033892",
+		"position": 6,
+		"name": "Force India Mercedes",
+		"point": 69,
+		"year": 2011
+	},
+	{
+		"id": "efa427af-7ad0-4c8d-9a64-4dd3c8c42355",
+		"position": 7,
+		"name": "Sauber Ferrari",
+		"point": 44,
+		"year": 2011
+	},
+	{
+		"id": "7f468171-2d25-42fb-91e2-1d8616968c87",
+		"position": 8,
+		"name": "STR Ferrari",
+		"point": 41,
+		"year": 2011
+	},
+	{
+		"id": "3dfb4a9f-b5a6-4a58-b1e4-2aa3fafc7f03",
+		"position": 9,
+		"name": "Williams Cosworth",
+		"point": 5,
+		"year": 2011
+	},
+	{
+		"id": "6b0363b9-36c6-471c-abc1-a463156dfadb",
+		"position": 10,
+		"name": "Lotus Renault",
+		"point": 0,
+		"year": 2011
+	},
+	{
+		"id": "af9bf7b8-9265-4c65-92d0-d3dde3ba4695",
+		"position": 11,
+		"name": "HRT Cosworth",
+		"point": 0,
+		"year": 2011
+	},
+	{
+		"id": "66e7b299-30a3-439a-9949-1c9e8351e1c8",
+		"position": 12,
+		"name": "Virgin Cosworth",
+		"point": 0,
+		"year": 2011
+	},
+	{
+		"id": "d8730726-eedc-4905-b809-d63faec86ffb",
+		"position": 1,
+		"name": "Red Bull Racing Renault",
+		"point": 460,
+		"year": 2012
+	},
+	{
+		"id": "24b1e236-50e3-4b74-bd6f-4d93e4a25cdf",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 400,
+		"year": 2012
+	},
+	{
+		"id": "c1e72310-f135-4f4d-b596-794e44730216",
+		"position": 3,
+		"name": "McLaren Mercedes",
+		"point": 378,
+		"year": 2012
+	},
+	{
+		"id": "c2efd384-cd67-4d54-a862-87ac9f4370cd",
+		"position": 4,
+		"name": "Lotus Renault",
+		"point": 303,
+		"year": 2012
+	},
+	{
+		"id": "6c8af423-7e87-4292-a9ae-74fdc142f8b7",
+		"position": 5,
+		"name": "Mercedes",
+		"point": 142,
+		"year": 2012
+	},
+	{
+		"id": "fa4bab85-ef3f-4f81-b021-cbd404917c3e",
+		"position": 6,
+		"name": "Sauber Ferrari",
+		"point": 126,
+		"year": 2012
+	},
+	{
+		"id": "d6fca462-4d21-446f-b9ba-24f32b0cf352",
+		"position": 7,
+		"name": "Force India Mercedes",
+		"point": 109,
+		"year": 2012
+	},
+	{
+		"id": "50ed7923-a7d9-4784-954d-7f20dc6f36ae",
+		"position": 8,
+		"name": "Williams Renault",
+		"point": 76,
+		"year": 2012
+	},
+	{
+		"id": "6853a143-3acf-4fbf-a322-f62a51f15233",
+		"position": 9,
+		"name": "STR Ferrari",
+		"point": 26,
+		"year": 2012
+	},
+	{
+		"id": "5bdebc76-bc2a-4294-8930-871e5242cc28",
+		"position": 10,
+		"name": "Caterham Renault",
+		"point": 0,
+		"year": 2012
+	},
+	{
+		"id": "3281a5c4-b6c3-43fb-970d-030d9ba129b3",
+		"position": 11,
+		"name": "Marussia Cosworth",
+		"point": 0,
+		"year": 2012
+	},
+	{
+		"id": "657fd343-d18e-4092-a799-a219fff86434",
+		"position": 12,
+		"name": "HRT Cosworth",
+		"point": 0,
+		"year": 2012
+	},
+	{
+		"id": "387b9ad5-da2b-487a-81bf-3e2594c938ac",
+		"position": 1,
+		"name": "Red Bull Racing Renault",
+		"point": 596,
+		"year": 2013
+	},
+	{
+		"id": "7ebf1fbf-faa1-43b0-89b7-cb4f72378fd2",
+		"position": 2,
+		"name": "Mercedes",
+		"point": 360,
+		"year": 2013
+	},
+	{
+		"id": "f68ebbd9-0760-4137-b05a-9761e3d9b93d",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 354,
+		"year": 2013
+	},
+	{
+		"id": "5fff1e51-86dd-4271-8ebf-150ae9fd3e35",
+		"position": 4,
+		"name": "Lotus Renault",
+		"point": 315,
+		"year": 2013
+	},
+	{
+		"id": "4d24c220-5da1-4134-8107-923abee521e2",
+		"position": 5,
+		"name": "McLaren Mercedes",
+		"point": 122,
+		"year": 2013
+	},
+	{
+		"id": "4f00b9e0-110b-4cd6-8726-422da1eab5a0",
+		"position": 6,
+		"name": "Force India Mercedes",
+		"point": 77,
+		"year": 2013
+	},
+	{
+		"id": "72ce3221-9ee6-4257-8743-3671c7e2696e",
+		"position": 7,
+		"name": "Sauber Ferrari",
+		"point": 57,
+		"year": 2013
+	},
+	{
+		"id": "c0067259-22c6-4c8d-abe7-41ee0e498e8d",
+		"position": 8,
+		"name": "STR Ferrari",
+		"point": 33,
+		"year": 2013
+	},
+	{
+		"id": "6fe1c32f-dade-4a7f-bf2c-68516a258b04",
+		"position": 9,
+		"name": "Williams Renault",
+		"point": 5,
+		"year": 2013
+	},
+	{
+		"id": "1f2612bc-5a1c-40f7-8f20-1608c049e6ac",
+		"position": 10,
+		"name": "Marussia Cosworth",
+		"point": 0,
+		"year": 2013
+	},
+	{
+		"id": "6e5731e7-70eb-4623-a280-d71b4bb6724c",
+		"position": 11,
+		"name": "Caterham Renault",
+		"point": 0,
+		"year": 2013
+	},
+	{
+		"id": "4d6395a5-104b-4cc8-9f9d-d0054d0be685",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 701,
+		"year": 2014
+	},
+	{
+		"id": "6ffd957a-a83a-4ca6-b442-20dc4ef02458",
+		"position": 2,
+		"name": "Red Bull Racing Renault",
+		"point": 405,
+		"year": 2014
+	},
+	{
+		"id": "49668f28-bab9-4e08-aa19-71665802fcb2",
+		"position": 3,
+		"name": "Williams Mercedes",
+		"point": 320,
+		"year": 2014
+	},
+	{
+		"id": "eb613aab-b34f-4943-aa9d-3e34f0db0b35",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 216,
+		"year": 2014
+	},
+	{
+		"id": "277872c6-8d83-4a43-ba2b-13475be2cb36",
+		"position": 5,
+		"name": "McLaren Mercedes",
+		"point": 181,
+		"year": 2014
+	},
+	{
+		"id": "4cc5ce2a-5c12-489c-aae9-763ce9c03db8",
+		"position": 6,
+		"name": "Force India Mercedes",
+		"point": 155,
+		"year": 2014
+	},
+	{
+		"id": "e73d491c-c6d2-49c7-a0b3-2a6d43195aab",
+		"position": 7,
+		"name": "STR Renault",
+		"point": 30,
+		"year": 2014
+	},
+	{
+		"id": "eb0e13d8-fad1-46e8-911c-5d5a9237f038",
+		"position": 8,
+		"name": "Lotus Renault",
+		"point": 10,
+		"year": 2014
+	},
+	{
+		"id": "a9af4ab0-30cd-487a-b8dd-04e6a2f4a586",
+		"position": 9,
+		"name": "Marussia Ferrari",
+		"point": 2,
+		"year": 2014
+	},
+	{
+		"id": "9e53d8f6-16b3-422a-9832-1c52dea3c059",
+		"position": 10,
+		"name": "Sauber Ferrari",
+		"point": 0,
+		"year": 2014
+	},
+	{
+		"id": "09d672e3-463f-4b05-895d-93a9270b620a",
+		"position": 11,
+		"name": "Caterham Renault",
+		"point": 0,
+		"year": 2014
+	},
+	{
+		"id": "2a8fe044-fb31-4c71-a38e-0a6913fd4db6",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 703,
+		"year": 2015
+	},
+	{
+		"id": "35079096-9303-4468-97ea-76b60fddcdd2",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 428,
+		"year": 2015
+	},
+	{
+		"id": "d114e55c-72ef-4fd8-8ea8-6484a43a5a81",
+		"position": 3,
+		"name": "Williams Mercedes",
+		"point": 257,
+		"year": 2015
+	},
+	{
+		"id": "e0ed1a66-abb7-4226-be55-a0798ad4dac7",
+		"position": 4,
+		"name": "Red Bull Racing Renault",
+		"point": 187,
+		"year": 2015
+	},
+	{
+		"id": "7fdaa82a-8129-46a8-9ed2-3620dea7a4a8",
+		"position": 5,
+		"name": "Force India Mercedes",
+		"point": 136,
+		"year": 2015
+	},
+	{
+		"id": "32158e29-09c7-4612-9a45-45262e4546b8",
+		"position": 6,
+		"name": "Lotus Mercedes",
+		"point": 78,
+		"year": 2015
+	},
+	{
+		"id": "f199476f-aebb-4ec2-9e53-928fd8e70f59",
+		"position": 7,
+		"name": "STR Renault",
+		"point": 67,
+		"year": 2015
+	},
+	{
+		"id": "c3fa2f7a-5d04-4be9-9fd1-aa78a422b01e",
+		"position": 8,
+		"name": "Sauber Ferrari",
+		"point": 36,
+		"year": 2015
+	},
+	{
+		"id": "4042e70d-d0a9-4054-b862-d8f5be38b350",
+		"position": 9,
+		"name": "McLaren Honda",
+		"point": 27,
+		"year": 2015
+	},
+	{
+		"id": "88a79a98-ca9b-4683-94e5-1f7f370dac1f",
+		"position": 10,
+		"name": "Marussia Ferrari",
+		"point": 0,
+		"year": 2015
+	},
+	{
+		"id": "f21f7d9f-6beb-47fa-948e-6323e85169dc",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 765,
+		"year": 2016
+	},
+	{
+		"id": "7f5691d1-745f-42ea-ac96-389eede344a0",
+		"position": 2,
+		"name": "Red Bull Racing TAG Heuer",
+		"point": 468,
+		"year": 2016
+	},
+	{
+		"id": "eacc4386-7ef2-491b-9f4b-d86a2ecf19d1",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 398,
+		"year": 2016
+	},
+	{
+		"id": "731bc74d-6be3-47bb-a39c-e7f09f748507",
+		"position": 4,
+		"name": "Force India Mercedes",
+		"point": 173,
+		"year": 2016
+	},
+	{
+		"id": "08ba560e-9abb-444d-8283-6678c5027236",
+		"position": 5,
+		"name": "Williams Mercedes",
+		"point": 138,
+		"year": 2016
+	},
+	{
+		"id": "69e7ffe7-cb21-4ae4-9692-4df9d8955d00",
+		"position": 6,
+		"name": "McLaren Honda",
+		"point": 76,
+		"year": 2016
+	},
+	{
+		"id": "8a055c9d-4162-428e-9b11-39642f9978c2",
+		"position": 7,
+		"name": "Toro Rosso Ferrari",
+		"point": 63,
+		"year": 2016
+	},
+	{
+		"id": "ac5044ec-5bc8-4232-bb28-3ca05bee9c1c",
+		"position": 8,
+		"name": "Haas Ferrari",
+		"point": 29,
+		"year": 2016
+	},
+	{
+		"id": "d7f567eb-b43b-44d6-8270-585269d8c797",
+		"position": 9,
+		"name": "Renault",
+		"point": 8,
+		"year": 2016
+	},
+	{
+		"id": "92f43648-97e5-4a3f-8b27-6b7456c64b98",
+		"position": 10,
+		"name": "Sauber Ferrari",
+		"point": 2,
+		"year": 2016
+	},
+	{
+		"id": "fb8b619d-e742-4b10-9906-505a7aa62be0",
+		"position": 11,
+		"name": "MRT Mercedes",
+		"point": 1,
+		"year": 2016
+	},
+	{
+		"id": "42aaf3df-1b45-41c7-b379-922602b69450",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 668,
+		"year": 2017
+	},
+	{
+		"id": "5cffb73a-6fc1-46d6-ab64-291e05b3855d",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 522,
+		"year": 2017
+	},
+	{
+		"id": "954c0e57-849c-429b-b555-ef9234644b9d",
+		"position": 3,
+		"name": "Red Bull Racing TAG Heuer",
+		"point": 368,
+		"year": 2017
+	},
+	{
+		"id": "4572d27f-fce8-45fe-93f1-aa1f0fc103cf",
+		"position": 4,
+		"name": "Force India Mercedes",
+		"point": 187,
+		"year": 2017
+	},
+	{
+		"id": "54dea88c-3208-44f5-9b30-13b70ecbd861",
+		"position": 5,
+		"name": "Williams Mercedes",
+		"point": 83,
+		"year": 2017
+	},
+	{
+		"id": "5de494c0-c581-4de2-91c9-985256dd0596",
+		"position": 6,
+		"name": "Renault",
+		"point": 57,
+		"year": 2017
+	},
+	{
+		"id": "3002b49a-f34b-4c34-89e5-34fe2c125415",
+		"position": 7,
+		"name": "Toro Rosso",
+		"point": 53,
+		"year": 2017
+	},
+	{
+		"id": "54834fc7-421c-45a1-ab68-dcbb1c500ee2",
+		"position": 8,
+		"name": "Haas Ferrari",
+		"point": 47,
+		"year": 2017
+	},
+	{
+		"id": "e512b1f3-6810-4236-8e38-ea5da11efe41",
+		"position": 9,
+		"name": "McLaren Honda",
+		"point": 30,
+		"year": 2017
+	},
+	{
+		"id": "fc263514-136a-449d-86e7-9c0c4009f73a",
+		"position": 10,
+		"name": "Sauber Ferrari",
+		"point": 5,
+		"year": 2017
+	},
+	{
+		"id": "6be654e5-3bae-4845-863d-459ebec3babc",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 655,
+		"year": 2018
+	},
+	{
+		"id": "7c730f68-b845-4a88-91f3-d49145dfe84e",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 571,
+		"year": 2018
+	},
+	{
+		"id": "0e46b8b5-7b9b-4e22-ac2b-3a507a258f29",
+		"position": 3,
+		"name": "Red Bull Racing TAG Heuer",
+		"point": 419,
+		"year": 2018
+	},
+	{
+		"id": "bfec8af3-e06f-4020-9867-bc31459087b0",
+		"position": 4,
+		"name": "Renault",
+		"point": 122,
+		"year": 2018
+	},
+	{
+		"id": "4205d173-d2ab-4218-a624-038c6a1fd3cd",
+		"position": 5,
+		"name": "Haas Ferrari",
+		"point": 93,
+		"year": 2018
+	},
+	{
+		"id": "9384988f-7c80-4d2b-8082-5eece95ce8d1",
+		"position": 6,
+		"name": "McLaren Renault",
+		"point": 62,
+		"year": 2018
+	},
+	{
+		"id": "82ffbc19-18a0-4854-aad0-f5d3212c6d22",
+		"position": 7,
+		"name": "Force India Mercedes",
+		"point": 52,
+		"year": 2018
+	},
+	{
+		"id": "d27abb62-0d59-497a-b456-1a3205e35036",
+		"position": 8,
+		"name": "Sauber Ferrari",
+		"point": 48,
+		"year": 2018
+	},
+	{
+		"id": "59e87beb-0528-471d-ba9a-39c6bdc3524c",
+		"position": 9,
+		"name": "Scuderia Toro Rosso Honda",
+		"point": 33,
+		"year": 2018
+	},
+	{
+		"id": "48c3e84b-4467-414a-8c71-62eea02af136",
+		"position": 10,
+		"name": "Williams Mercedes",
+		"point": 7,
+		"year": 2018
+	},
+	{
+		"id": "539bf2ae-4957-4afe-9115-91cc60bcbace",
+		"position": null,
+		"name": "Force India Sahara",
+		"point": 0,
+		"year": 2018
+	},
+	{
+		"id": "71915cc7-c3e3-4f20-a8ad-bf344e70e81e",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 739,
+		"year": 2019
+	},
+	{
+		"id": "65c2d7f9-ef56-4c20-8e3d-15753c12ec88",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 504,
+		"year": 2019
+	},
+	{
+		"id": "9fad3b4e-689a-449d-91ce-a7b903ab8b55",
+		"position": 3,
+		"name": "Red Bull Racing Honda",
+		"point": 417,
+		"year": 2019
+	},
+	{
+		"id": "60966ab6-82d7-4595-8d26-7b132e0b6a35",
+		"position": 4,
+		"name": "McLaren Renault",
+		"point": 145,
+		"year": 2019
+	},
+	{
+		"id": "3bde1e3c-c81f-40b1-99bb-a2525a0f4e5f",
+		"position": 5,
+		"name": "Renault",
+		"point": 91,
+		"year": 2019
+	},
+	{
+		"id": "75bc9cb8-a99f-4dcb-9ea5-026da6942f95",
+		"position": 6,
+		"name": "Scuderia Toro Rosso Honda",
+		"point": 85,
+		"year": 2019
+	},
+	{
+		"id": "9315482a-79a2-4bd1-8ad7-325c0f8cfa00",
+		"position": 7,
+		"name": "Racing Point BWT Mercedes",
+		"point": 73,
+		"year": 2019
+	},
+	{
+		"id": "d5934f0d-92b7-45ef-8a07-b58f8813a172",
+		"position": 8,
+		"name": "Alfa Romeo Racing Ferrari",
+		"point": 57,
+		"year": 2019
+	},
+	{
+		"id": "c1c846ee-0678-4091-b795-7b521bfe6dd7",
+		"position": 9,
+		"name": "Haas Ferrari",
+		"point": 28,
+		"year": 2019
+	},
+	{
+		"id": "986d8125-3cb4-4f3d-994f-80da679e7b8e",
+		"position": 10,
+		"name": "Williams Mercedes",
+		"point": 1,
+		"year": 2019
+	},
+	{
+		"id": "ffd23976-bd6f-4273-b7b3-93e344c36a80",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 573,
+		"year": 2020
+	},
+	{
+		"id": "01762d75-92f2-4584-945b-a34c055c3758",
+		"position": 2,
+		"name": "Red Bull Racing Honda",
+		"point": 319,
+		"year": 2020
+	},
+	{
+		"id": "fcbc0dfc-3fb3-4837-bb71-1ec295be68f6",
+		"position": 3,
+		"name": "McLaren Renault",
+		"point": 202,
+		"year": 2020
+	},
+	{
+		"id": "41aa39e0-2572-465a-a73a-aaec3cd0923b",
+		"position": 4,
+		"name": "Racing Point BWT Mercedes",
+		"point": 195,
+		"year": 2020
+	},
+	{
+		"id": "ea901ea4-c13b-498f-8bbe-c5a27cc6c5e0",
+		"position": 5,
+		"name": "Renault",
+		"point": 181,
+		"year": 2020
+	},
+	{
+		"id": "272376a2-c9a8-4819-b659-b7c32c90de63",
+		"position": 6,
+		"name": "Ferrari",
+		"point": 131,
+		"year": 2020
+	},
+	{
+		"id": "eabedbb0-043f-44da-8d5f-1810c4e04827",
+		"position": 7,
+		"name": "AlphaTauri Honda",
+		"point": 107,
+		"year": 2020
+	},
+	{
+		"id": "3978ac22-75c1-48e0-a236-afb67d98d84a",
+		"position": 8,
+		"name": "Alfa Romeo Racing Ferrari",
+		"point": 8,
+		"year": 2020
+	},
+	{
+		"id": "ab411fbb-8d5f-4912-922d-500aa869b470",
+		"position": 9,
+		"name": "Haas Ferrari",
+		"point": 3,
+		"year": 2020
+	},
+	{
+		"id": "b39eb5fb-2782-432d-9afe-05a0233dddbf",
+		"position": 10,
+		"name": "Williams Mercedes",
+		"point": 0,
+		"year": 2020
+	},
+	{
+		"id": "524d7418-7ee7-4692-bce7-8f77cd9de3c7",
+		"position": 1,
+		"name": "Mercedes",
+		"point": 613,
+		"year": 2021
+	},
+	{
+		"id": "585d5fce-3527-41f0-b300-30dfbbaa7abe",
+		"position": 2,
+		"name": "Red Bull Racing Honda",
+		"point": 585,
+		"year": 2021
+	},
+	{
+		"id": "119e7595-77aa-41ec-9c2b-c20adbd1601d",
+		"position": 3,
+		"name": "Ferrari",
+		"point": 323,
+		"year": 2021
+	},
+	{
+		"id": "9da8fe91-031c-411b-893e-1f8f88689578",
+		"position": 4,
+		"name": "McLaren Mercedes",
+		"point": 275,
+		"year": 2021
+	},
+	{
+		"id": "73105110-052f-4d5e-83a0-3767fb47ca2d",
+		"position": 5,
+		"name": "Alpine Renault",
+		"point": 155,
+		"year": 2021
+	},
+	{
+		"id": "4b8f9301-f7bf-4660-a725-a152c42b265c",
+		"position": 6,
+		"name": "AlphaTauri Honda",
+		"point": 142,
+		"year": 2021
+	},
+	{
+		"id": "e615f622-9336-456c-aa95-d2e250a2ca1b",
+		"position": 7,
+		"name": "Aston Martin Mercedes",
+		"point": 77,
+		"year": 2021
+	},
+	{
+		"id": "c7243416-158f-48ad-bcfd-748cd4e5279c",
+		"position": 8,
+		"name": "Williams Mercedes",
+		"point": 23,
+		"year": 2021
+	},
+	{
+		"id": "6af4206c-4c5e-48a6-87a4-beb7004cc000",
+		"position": 9,
+		"name": "Alfa Romeo Racing Ferrari",
+		"point": 13,
+		"year": 2021
+	},
+	{
+		"id": "44dabd76-d83d-4c9a-b388-8952795c8421",
+		"position": 10,
+		"name": "Haas Ferrari",
+		"point": 0,
+		"year": 2021
+	},
+	{
+		"id": "7a37edd8-fc70-440c-a49f-e35bbac0545d",
+		"position": 1,
+		"name": "Red Bull Racing RBPT",
+		"point": 759,
+		"year": 2022
+	},
+	{
+		"id": "3d9ab147-f81f-4c66-9ec6-d02f997f1f15",
+		"position": 2,
+		"name": "Ferrari",
+		"point": 554,
+		"year": 2022
+	},
+	{
+		"id": "2f043417-53d3-4de6-9507-da8845a56f83",
+		"position": 3,
+		"name": "Mercedes",
+		"point": 515,
+		"year": 2022
+	},
+	{
+		"id": "7222b442-dd3f-42a2-a489-afc4a39d2e6b",
+		"position": 4,
+		"name": "Alpine Renault",
+		"point": 173,
+		"year": 2022
+	},
+	{
+		"id": "c0a0748a-e90b-46cc-af52-f2ae076a05a8",
+		"position": 5,
+		"name": "McLaren Mercedes",
+		"point": 159,
+		"year": 2022
+	},
+	{
+		"id": "02cd2dd4-2ce2-4669-8a12-212e9e3c0752",
+		"position": 6,
+		"name": "Alfa Romeo Ferrari",
+		"point": 55,
+		"year": 2022
+	},
+	{
+		"id": "ccc990c0-aacb-4373-9b04-66a8e57d789c",
+		"position": 7,
+		"name": "Aston Martin Aramco Mercedes",
+		"point": 55,
+		"year": 2022
+	},
+	{
+		"id": "6f7a5ec7-ceff-4e30-a888-df4d468935d3",
+		"position": 8,
+		"name": "Haas Ferrari",
+		"point": 37,
+		"year": 2022
+	},
+	{
+		"id": "f161b502-b02c-4efb-8ee0-739907589680",
+		"position": 9,
+		"name": "AlphaTauri RBPT",
+		"point": 35,
+		"year": 2022
+	},
+	{
+		"id": "43cb85aa-5216-4a49-b3cd-4b796421ad36",
+		"position": 10,
+		"name": "Williams Mercedes",
+		"point": 8,
+		"year": 2022
+	},
+	{
+		"id": "1baf237c-7bf1-4854-96e0-7e2f3700011c",
+		"position": 1,
+		"name": "Red Bull Racing Honda RBPT",
+		"point": 287,
+		"year": 2023
+	},
+	{
+		"id": "54da104d-ab61-4b7a-aa13-f7b992bc08df",
+		"position": 2,
+		"name": "Mercedes",
+		"point": 152,
+		"year": 2023
+	},
+	{
+		"id": "7f682cce-f24e-4b48-a97b-bcd52af0616f",
+		"position": 3,
+		"name": "Aston Martin Aramco Mercedes",
+		"point": 134,
+		"year": 2023
+	},
+	{
+		"id": "18ee6631-a32c-4fe4-949a-59ef8f750b75",
+		"position": 4,
+		"name": "Ferrari",
+		"point": 100,
+		"year": 2023
+	},
+	{
+		"id": "057e0db8-b10f-40f1-9626-ee832c437042",
+		"position": 5,
+		"name": "Alpine Renault",
+		"point": 40,
+		"year": 2023
+	},
+	{
+		"id": "da251b18-dc35-4bce-8a4a-34c562d3f81a",
+		"position": 6,
+		"name": "McLaren Mercedes",
+		"point": 17,
+		"year": 2023
+	},
+	{
+		"id": "a58172b0-f858-4561-9239-a59f969e0206",
+		"position": 7,
+		"name": "Haas Ferrari",
+		"point": 8,
+		"year": 2023
+	},
+	{
+		"id": "36d5a133-80d7-409c-ab52-69b760b0f6c4",
+		"position": 8,
+		"name": "Alfa Romeo Ferrari",
+		"point": 8,
+		"year": 2023
+	},
+	{
+		"id": "5fdf80cf-1f47-4cdc-b943-aa4616060e72",
+		"position": 9,
+		"name": "AlphaTauri Honda RBPT",
+		"point": 2,
+		"year": 2023
+	},
+	{
+		"id": "e1a9ce67-361a-4edb-b0e9-f62a218105d1",
+		"position": 10,
+		"name": "Williams Mercedes",
+		"point": 1,
+		"year": 2023
+	}
+]
